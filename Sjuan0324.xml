@@ -1,0 +1,1942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<schedule xmlns="http://common.tv.se/schedule/v3_1" xmlns:ns2="http://common.tv.se/content/v3_1" xmlns:ns4="http://common.tv.se/event/v3_1" xmlns:ns3="http://common.tv.se/material/v3_1" timestamp="2014-03-17T05:15:01.867+01:00">
+ <from>2014-03-24T06:10:00+01:00</from>
+ <to>2014-03-25T05:15:00+01:00</to>
+ <providerId>se.tv4</providerId>
+ <contentList>
+   <ns2:content timestamp="2014-03-17T05:12:18.057+01:00">
+     <ns2:contentId>se.tv4.content.4736754</ns2:contentId>
+     <ns2:seriesId>se.tv4.series.4736748</ns2:seriesId>
+     <ns2:seasonNumber>9</ns2:seasonNumber>
+     <ns2:episodeNumber>6</ns2:episodeNumber>
+     <ns2:numberOfEpisodes>9</ns2:numberOfEpisodes>
+     <ns2:productionYear>2007</ns2:productionYear>
+     <ns2:countryOfOriginList>
+       <ns2:country>GB</ns2:country>
+     </ns2:countryOfOriginList>
+     <ns2:titleList>
+       <ns2:title type="content" language="swe">Wife swap</ns2:title>
+       <ns2:title type="season" language="swe">Wife swap</ns2:title>
+     </ns2:titleList>
+     <ns2:shortDescriptionList>
+       <ns2:shortDescription type="content" language="swe">Tv� mammor med skild syn p� disciplinering byter hem.</ns2:shortDescription>
+       <ns2:shortDescription type="season" language="swe">Brittisk realityserie fr�n 2007.</ns2:shortDescription>
+     </ns2:shortDescriptionList>
+     <ns2:longDescriptionList>
+       <ns2:longDescription type="content" language="swe">Del 6 av 9. John och Racquel uppfostrar sina barn p� samma s�tt som man skulle disciplinera en hund. Under tv� veckor ska Racquel byta plats med Ronnie, som anser att hennes sju barn ska f� g�ra som de vill. Fr�gan �r hur det ska g� f�r deras familjer n�r de byter plats.</ns2:longDescription>
+       <ns2:longDescription shortDescriptionIncluded="true" type="season" language="swe">Brittisk realityserie fr�n 2007. H�r f�r kvinnor chans att byta familj under tv� veckor. De f�r en manual med instruktioner fr�n husets fru som de m�ste f�lja till punkt och pricka den f�rsta veckan. Under deras andra vecka f�r de chans att best�mma sj�lva hur de tycker att det ska vara.</ns2:longDescription>
+     </ns2:longDescriptionList>
+     <ns2:mediaList>
+       <ns2:media level="0" refType="image">http://annotagger.tv4.se/grid/4fd8a7ea2f32220001000004/tv4_sommar_.jpg</ns2:media>
+     </ns2:mediaList>
+     <ns2:categoryList>
+       <ns2:category level="0">
+         <ns2:treeNode order="0">Dokument�r</ns2:treeNode>
+         <ns2:treeNode order="1">Dokus�pa</ns2:treeNode>
+       </ns2:category>
+     </ns2:categoryList>
+   </ns2:content>
+   <ns2:content timestamp="2014-03-17T05:12:18.057+01:00">
+     <ns2:contentId>se.tv4.content.1968878</ns2:contentId>
+     <ns2:productionYear>2008</ns2:productionYear>
+     <ns2:countryOfOriginList>
+       <ns2:country>SWEDEN</ns2:country>
+     </ns2:countryOfOriginList>
+     <ns2:titleList>
+       <ns2:title type="content" language="swe">S�ndningsuppeh�ll</ns2:title>
+     </ns2:titleList>
+     <ns2:shortDescriptionList/>
+     <ns2:longDescriptionList/>
+     <ns2:mediaList>
+       <ns2:media level="0" refType="image">http://annotagger.tv4.se/grid/4fd8a7ea2f32220001000004/tv4_sommar_.jpg</ns2:media>
+     </ns2:mediaList>
+     <ns2:categoryList>
+       <ns2:category level="0">
+         <ns2:treeNode order="0">PRESENTATION</ns2:treeNode>
+         <ns2:treeNode order="1">S�NDNINGSUPPEH�LL</ns2:treeNode>
+       </ns2:category>
+     </ns2:categoryList>
+   </ns2:content>
+   <ns2:content timestamp="2014-03-17T05:12:18.057+01:00">
+     <ns2:contentId>se.tv4.content.4941178</ns2:contentId>
+     <ns2:seriesId>se.tv4.series.4533669</ns2:seriesId>
+     <ns2:seasonNumber>16</ns2:seasonNumber>
+     <ns2:episodeNumber>12</ns2:episodeNumber>
+     <ns2:numberOfEpisodes>12</ns2:numberOfEpisodes>
+     <ns2:productionYear>2013</ns2:productionYear>
+     <ns2:countryOfOriginList>
+       <ns2:country>Sverige</ns2:country>
+     </ns2:countryOfOriginList>
+     <ns2:titleList>
+       <ns2:title type="content" language="swe">Det ok�nda</ns2:title>
+       <ns2:title type="season" language="swe">Det ok�nda</ns2:title>
+     </ns2:titleList>
+     <ns2:shortDescriptionList>
+       <ns2:shortDescription type="content" language="swe">Svensk dokument�rserie fr�n 2014.</ns2:shortDescription>
+       <ns2:shortDescription type="season" language="swe">Svensk dokument�rserie fr�n 2014.</ns2:shortDescription>
+     </ns2:shortDescriptionList>
+     <ns2:longDescriptionList>
+       <ns2:longDescription type="content" language="swe">Del 12 av 12. Mediet Birkan Tore bes�ker Ewa och hennes familj p� en g�rd utanf�r F�rjestaden. Ewa vet inte vad hon ska ta sig till. Skepnader har setts vandra ute p� g�rden och elektronikprylar i huset g�r s�nder. Dottern Lovisa har ocks� sett en manlig gestalt som tittat in genom f�nstret.</ns2:longDescription>
+       <ns2:longDescription shortDescriptionIncluded="true" type="season" language="swe">Svensk dokument�rserie fr�n 2014. Det finns m�nniskor som k�nner att deras hem hems�ks av andar, medan andra vittnar om of�rklarliga h�ndelser. Programledaren Caroline Giertz beger sig tillsammans med n�gra av landets mest framst�ende medier till svenska hem. D�r s�ker de f�rklaringar till mystiska fenomen och hj�lper de utsatta.</ns2:longDescription>
+     </ns2:longDescriptionList>
+     <ns2:mediaList>
+       <ns2:media level="0" refType="image">http://annotagger.tv4.se/grid/4fd8a7ea2f32220001000004/tv4_sommar_.jpg</ns2:media>
+     </ns2:mediaList>
+     <ns2:categoryList>
+       <ns2:category level="0">
+         <ns2:treeNode order="0">Dokument�r</ns2:treeNode>
+       </ns2:category>
+     </ns2:categoryList>
+   </ns2:content>
+   <ns2:content timestamp="2014-03-17T05:12:18.057+01:00">
+     <ns2:contentId>se.tv4.content.4674494</ns2:contentId>
+     <ns2:seriesId>se.tv4.series.4674352</ns2:seriesId>
+     <ns2:seasonNumber>1</ns2:seasonNumber>
+     <ns2:episodeNumber>136</ns2:episodeNumber>
+     <ns2:numberOfEpisodes>180</ns2:numberOfEpisodes>
+     <ns2:productionYear>2012</ns2:productionYear>
+     <ns2:countryOfOriginList>
+       <ns2:country>USA</ns2:country>
+     </ns2:countryOfOriginList>
+     <ns2:titleList>
+       <ns2:title type="content" language="swe">Judys domstol</ns2:title>
+       <ns2:title type="season" language="swe">Judys domstol</ns2:title>
+     </ns2:titleList>
+     <ns2:shortDescriptionList>
+       <ns2:shortDescription type="content" language="swe">Amerikansk realityserie fr�n 2012.</ns2:shortDescription>
+       <ns2:shortDescription type="season" language="swe">Amerikansk realityserie fr�n 2012.</ns2:shortDescription>
+     </ns2:shortDescriptionList>
+     <ns2:longDescriptionList>
+       <ns2:longDescription type="content" language="swe">Del 136 av 180.</ns2:longDescription>
+       <ns2:longDescription shortDescriptionIncluded="true" type="season" language="swe">Amerikansk realityserie fr�n 2012. Med sin r�ttframma stil tar domare Judith Sheindlin upp autentiska fall i sin r�ttssal. Hon �r tuff men r�ttvis, och fast besluten att alltid skipa r�ttvisa och avkunna snabba domar.</ns2:longDescription>
+     </ns2:longDescriptionList>
+     <ns2:mediaList>
+       <ns2:media level="0" refType="image">http://annotagger.tv4.se/grid/4fd8a7ea2f32220001000004/tv4_sommar_.jpg</ns2:media>
+     </ns2:mediaList>
+     <ns2:categoryList>
+       <ns2:category level="0">
+         <ns2:treeNode order="0">Dokument�r</ns2:treeNode>
+         <ns2:treeNode order="1">Dokus�pa</ns2:treeNode>
+       </ns2:category>
+     </ns2:categoryList>
+   </ns2:content>
+   <ns2:content timestamp="2014-03-17T05:12:18.057+01:00">
+     <ns2:contentId>se.tv4.content.4162968</ns2:contentId>
+     <ns2:seriesId>se.tv4.series.4162893</ns2:seriesId>
+     <ns2:seasonNumber>2</ns2:seasonNumber>
+     <ns2:episodeNumber>34</ns2:episodeNumber>
+     <ns2:numberOfEpisodes>37</ns2:numberOfEpisodes>
+     <ns2:productionYear>2011</ns2:productionYear>
+     <ns2:countryOfOriginList>
+       <ns2:country>USA</ns2:country>
+     </ns2:countryOfOriginList>
+     <ns2:titleList>
+       <ns2:title type="content" language="swe">Det stora fyndkriget</ns2:title>
+       <ns2:title type="season" language="swe">Storage Wars</ns2:title>
+     </ns2:titleList>
+     <ns2:shortDescriptionList>
+       <ns2:shortDescription type="content" language="swe">Amerikansk dokument�rserie fr�n 2011.</ns2:shortDescription>
+       <ns2:shortDescription type="season" language="swe">Amerikansk dokument�rserie fr�n 2011.</ns2:shortDescription>
+     </ns2:shortDescriptionList>
+     <ns2:longDescriptionList>
+       <ns2:longDescription type="content" language="swe">Del 34 av 37. K�parna fr�n Det stora fyndkriget tr�ffas i ett �vergivet casino i Las Vegas f�r att prata om programmet, hemligheterna bakom deras framg�ngar och sin rivalitet. Deras kunskap i auktionering s�tts ocks� p� prov.</ns2:longDescription>
+       <ns2:longDescription shortDescriptionIncluded="true" type="season" language="swe">Amerikansk dokument�rserie fr�n 2011. N�r hyran f�r ett f�rr�d i Kalifornien inte blivit betald p� tre m�nader s�ljs inneh�llet p� auktion. Dokument�rserien f�ljer en grupp m�nniskor som reser runt f�r att k�pa inneh�llet i dessa �vergivna lager i hopp om att g�ra stora vinster.</ns2:longDescription>
+     </ns2:longDescriptionList>
+     <ns2:mediaList>
+       <ns2:media level="0" refType="image">http://annotagger.tv4.se/grid/4fd8a7ea2f32220001000004/tv4_sommar_.jpg</ns2:media>
+     </ns2:mediaList>
+     <ns2:categoryList>
+       <ns2:category level="0">
+         <ns2:treeNode order="0">Dokument�r</ns2:treeNode>
+       </ns2:category>
+     </ns2:categoryList>
+   </ns2:content>
+   <ns2:content timestamp="2014-03-17T05:12:18.057+01:00">
+     <ns2:contentId>se.tv4.content.1536814</ns2:contentId>
+     <ns2:seriesId>se.tv4.series.1536808</ns2:seriesId>
+     <ns2:seasonNumber>5</ns2:seasonNumber>
+     <ns2:episodeNumber>6</ns2:episodeNumber>
+     <ns2:numberOfEpisodes>23</ns2:numberOfEpisodes>
+     <ns2:productionYear>2003</ns2:productionYear>
+     <ns2:countryOfOriginList>
+       <ns2:country>USA</ns2:country>
+     </ns2:countryOfOriginList>
+     <ns2:titleList>
+       <ns2:title type="content" language="swe">Vem d�mer Amy?</ns2:title>
+       <ns2:title type="season" language="swe">Vem d�mer Amy?</ns2:title>
+     </ns2:titleList>
+     <ns2:shortDescriptionList>
+       <ns2:shortDescription type="content" language="swe">Amerikansk dramaserie fr�n 2003.</ns2:shortDescription>
+       <ns2:shortDescription type="season" language="swe">Amerikansk dramaserie fr�n 2003.</ns2:shortDescription>
+     </ns2:shortDescriptionList>
+     <ns2:longDescriptionList>
+       <ns2:longDescription type="content" language="swe">Del 6 av 23. N�r det �r dags att f�lla en dom i en mordr�tteg�ng m�ste Amy besluta om hon ska avbryta r�tteg�ngen eftersom en av advokaterna f�ller opassande kommentarer. Under en middag d�r Lauren �r med avsl�jar Stu en hittills dold skr�ck f�r barn. Kyle k�nner sig lite obekv�m n�r han m�ter sin nye chef, som han tr�ffat tidigare i ett helt annorlunda sammanhang.</ns2:longDescription>
+       <ns2:longDescription shortDescriptionIncluded="true" type="season" language="swe">Amerikansk dramaserie fr�n 2003. Amy Gray �r ensamst�ende mor och har �terv�nt till sin hemstad Hartford f�r att jobba som domare. Amy och dottern Lauren bor med Amys mor Maxine och har utvecklat en n�ra v�nskap med brodern Peter och hans fru Gillian.</ns2:longDescription>
+     </ns2:longDescriptionList>
+     <ns2:creditList>
+       <ns2:credit>
+         <ns2:name>Amy Brenneman</ns2:name>
+         <ns2:rolename>Amy Gray</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Tyne Daly</ns2:name>
+         <ns2:rolename>Maxine Gray</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Richard T Jones</ns2:name>
+         <ns2:rolename>Bruce Van Exel</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Kevin Rahm</ns2:name>
+         <ns2:rolename>Kyle McCarty</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Jessica Tuck</ns2:name>
+         <ns2:rolename>Gillian Gray</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Marcus Giamatti</ns2:name>
+         <ns2:rolename>Peter Gray</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+     </ns2:creditList>
+     <ns2:mediaList>
+       <ns2:media level="0" refType="image">http://annotagger.tv4.se/grid/4fd8a7ea2f32220001000004/tv4_sommar_.jpg</ns2:media>
+     </ns2:mediaList>
+     <ns2:categoryList>
+       <ns2:category level="0">
+         <ns2:treeNode order="0">Drama</ns2:treeNode>
+       </ns2:category>
+     </ns2:categoryList>
+   </ns2:content>
+   <ns2:content timestamp="2014-03-17T05:12:18.057+01:00">
+     <ns2:contentId>se.tv4.content.3192695</ns2:contentId>
+     <ns2:seriesId>se.tv4.series.3192692</ns2:seriesId>
+     <ns2:seasonNumber>5</ns2:seasonNumber>
+     <ns2:episodeNumber>3</ns2:episodeNumber>
+     <ns2:numberOfEpisodes>13</ns2:numberOfEpisodes>
+     <ns2:productionYear>2010</ns2:productionYear>
+     <ns2:countryOfOriginList>
+       <ns2:country>USA</ns2:country>
+     </ns2:countryOfOriginList>
+     <ns2:titleList>
+       <ns2:title type="content" language="swe">Army wives</ns2:title>
+       <ns2:title type="season" language="swe">Army wives</ns2:title>
+     </ns2:titleList>
+     <ns2:shortDescriptionList>
+       <ns2:shortDescription type="content" language="swe">Claudia Joy har en d�lig dag p� sitt nya jobb.</ns2:shortDescription>
+       <ns2:shortDescription type="season" language="swe">Amerikansk dramaserie fr�n 2011.</ns2:shortDescription>
+     </ns2:shortDescriptionList>
+     <ns2:longDescriptionList>
+       <ns2:longDescription type="content" language="swe">Del 3 av 13. Claudia Joy har sin f�rsta arbetsdag p� professor Chandlers advokatbyr�, men dagen tar en ov�ntad v�ndning n�r Claudia Joy f�r en utsk�llning. Roxy misst�nker att Pamela inte �r intresserad av fortsatt umg�nge.</ns2:longDescription>
+       <ns2:longDescription shortDescriptionIncluded="true" type="season" language="swe">Amerikansk dramaserie fr�n 2011. Om n�gra kvinnors och en mans dr�mmar och v�nskap. Claudia, Denise, Pamela och Roxy har l�mnat sina liv bakom sig f�r att f�lja med sina �kta h�lfter som arbetar inom det milit�ra. De k�mpar alla med att f�rs�ka passa in i de strikta milit�ra traditionerna vilket inte alltid �r l�tt. Att deras k�ra dessutom ofta befinner sig i f�lt g�r inte saken l�ttare men tillsammans f�rs�ker de hj�lpa varandra att orka med livet inom arm�n.</ns2:longDescription>
+     </ns2:longDescriptionList>
+     <ns2:creditList>
+       <ns2:credit>
+         <ns2:name>Kim Delaney</ns2:name>
+         <ns2:rolename>Claudia Joy Holden</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Sally Pressman</ns2:name>
+         <ns2:rolename>Roxy LeBlanc</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Brigid Brannagh</ns2:name>
+         <ns2:rolename>Pamela Moran</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Brian McNamara</ns2:name>
+         <ns2:rolename>Michael Holden</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Sterling Brown</ns2:name>
+         <ns2:rolename>Roland Burton</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Wendy Davis</ns2:name>
+         <ns2:rolename>Joan Burton</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Drew Fuller</ns2:name>
+         <ns2:rolename>Trevor LeBlanc</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Terry Serpico</ns2:name>
+         <ns2:rolename>Frank Sherwood</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Catherine Bell</ns2:name>
+         <ns2:rolename>Denise Sherwood</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Harry Hamlin</ns2:name>
+         <ns2:rolename>Professor Chandler</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Richard Bryant</ns2:name>
+         <ns2:rolename>Jeremy Sherwood</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>John Kretchmer</ns2:name>
+         <ns2:rolename/>
+         <ns2:function>Regiss�r</ns2:function>
+       </ns2:credit>
+     </ns2:creditList>
+     <ns2:mediaList>
+       <ns2:media level="0" refType="image">http://annotagger.tv4.se/grid/4fd8a7ea2f32220001000004/tv4_sommar_.jpg</ns2:media>
+     </ns2:mediaList>
+     <ns2:categoryList>
+       <ns2:category level="0">
+         <ns2:treeNode order="0">Drama</ns2:treeNode>
+       </ns2:category>
+     </ns2:categoryList>
+   </ns2:content>
+   <ns2:content timestamp="2014-03-17T05:12:18.057+01:00">
+     <ns2:contentId>se.tv4.content.4799568</ns2:contentId>
+     <ns2:seriesId>se.tv4.series.4799484</ns2:seriesId>
+     <ns2:seasonNumber>4</ns2:seasonNumber>
+     <ns2:episodeNumber>84</ns2:episodeNumber>
+     <ns2:numberOfEpisodes>220</ns2:numberOfEpisodes>
+     <ns2:productionYear>2013</ns2:productionYear>
+     <ns2:countryOfOriginList>
+       <ns2:country>USA</ns2:country>
+     </ns2:countryOfOriginList>
+     <ns2:titleList>
+       <ns2:title type="content" language="swe">The talk</ns2:title>
+       <ns2:title type="season" language="swe">The talk</ns2:title>
+     </ns2:titleList>
+     <ns2:shortDescriptionList>
+       <ns2:shortDescription type="content" language="swe">Studion g�stas av sk�despelare och en stylist.</ns2:shortDescription>
+       <ns2:shortDescription type="season" language="swe">Amerikansk pratshow fr�n 2013.</ns2:shortDescription>
+     </ns2:shortDescriptionList>
+     <ns2:longDescriptionList>
+       <ns2:longDescription type="content" language="swe">Del 84 av 220. Dagens f�rsta g�st �r aff�rskvinnan och sk�despelerskan Melissa Joan Hart som f�r s�llskap i studion av sk�despelaren och programledaren Joey Lawrence samt den persisk-amerikanska tv-personligheten och hejarklacksledaren Sarah Shahi. Modeexperten och stylisten Jamie Krell g�star �ven programmet.</ns2:longDescription>
+       <ns2:longDescription shortDescriptionIncluded="true" type="season" language="swe">Amerikansk pratshow fr�n 2013. H�r tar man upp aktuella �mnen och g�stas av k�nda personligheter. Programledare �r bland andra Sara Gilbert, Julie Chen, Sharon Osbourne och Sheryl Underwood.</ns2:longDescription>
+     </ns2:longDescriptionList>
+     <ns2:mediaList>
+       <ns2:media level="0" refType="image">http://annotagger.tv4.se/grid/4fd8a7ea2f32220001000004/tv4_sommar_.jpg</ns2:media>
+     </ns2:mediaList>
+     <ns2:categoryList>
+       <ns2:category level="0">
+         <ns2:treeNode order="0">Talk Show</ns2:treeNode>
+       </ns2:category>
+     </ns2:categoryList>
+   </ns2:content>
+   <ns2:content timestamp="2014-03-17T05:12:18.057+01:00">
+     <ns2:contentId>se.tv4.content.3195585</ns2:contentId>
+     <ns2:seriesId>se.tv4.series.3195577</ns2:seriesId>
+     <ns2:seasonNumber>2</ns2:seasonNumber>
+     <ns2:episodeNumber>8</ns2:episodeNumber>
+     <ns2:numberOfEpisodes>9</ns2:numberOfEpisodes>
+     <ns2:productionYear>2009</ns2:productionYear>
+     <ns2:countryOfOriginList>
+       <ns2:country>GB</ns2:country>
+     </ns2:countryOfOriginList>
+     <ns2:titleList>
+       <ns2:title type="content" language="swe">V�rldens str�ngaste f�r�ldrar</ns2:title>
+       <ns2:title type="season" language="swe">V�rldens str�ngaste f�r�ldrar</ns2:title>
+     </ns2:titleList>
+     <ns2:shortDescriptionList>
+       <ns2:shortDescription type="content" language="swe">Brittisk dokument�rserie fr�n 2009.</ns2:shortDescription>
+       <ns2:shortDescription type="season" language="swe">Brittisk dokument�rserie fr�n 2009.</ns2:shortDescription>
+     </ns2:shortDescriptionList>
+     <ns2:longDescriptionList>
+       <ns2:longDescription type="content" language="swe">Del 8 av 9. Kaya och Jay tvingas tillbringa en vecka hos familjen White i Oklahoma, USA. Stacey �r polischef och hans fru Shannon bitr�dande polischef och tillsammans har de fem barn. Den f�re detta marinsoldaten Stacey tror att tuff k�rlek och h�rda straff �r det b�sta s�ttet att uppfostra barn p�.</ns2:longDescription>
+       <ns2:longDescription shortDescriptionIncluded="true" type="season" language="swe">Brittisk dokument�rserie fr�n 2009. H�r f�r rebelliska ton�ringar l�mna sina hem och under tio dagar bo hemma hos n�gra riktigt str�nga f�r�ldrar. De blir inte l�tt f�r de upproriska barnen att anpassa sig till de dagliga rutinerna och de tuffa vuxna som kr�ver disciplin och ordning.</ns2:longDescription>
+     </ns2:longDescriptionList>
+     <ns2:mediaList>
+       <ns2:media level="0" refType="image">http://annotagger.tv4.se/grid/4fd8a7ea2f32220001000004/tv4_sommar_.jpg</ns2:media>
+     </ns2:mediaList>
+     <ns2:categoryList>
+       <ns2:category level="0">
+         <ns2:treeNode order="0">Dokument�r</ns2:treeNode>
+       </ns2:category>
+     </ns2:categoryList>
+   </ns2:content>
+   <ns2:content timestamp="2014-03-17T05:12:18.057+01:00">
+     <ns2:contentId>se.tv4.content.2657937</ns2:contentId>
+     <ns2:seriesId>se.tv4.series.2657921</ns2:seriesId>
+     <ns2:seasonNumber>6</ns2:seasonNumber>
+     <ns2:episodeNumber>10</ns2:episodeNumber>
+     <ns2:numberOfEpisodes>16</ns2:numberOfEpisodes>
+     <ns2:productionYear>2009</ns2:productionYear>
+     <ns2:countryOfOriginList>
+       <ns2:country>USA</ns2:country>
+     </ns2:countryOfOriginList>
+     <ns2:titleList>
+       <ns2:title type="content" language="swe">Numbers</ns2:title>
+       <ns2:title type="season" language="swe">Numbers</ns2:title>
+     </ns2:titleList>
+     <ns2:shortDescriptionList>
+       <ns2:shortDescription type="content" language="swe">Amerikansk dokument�rserie fr�n 2005.</ns2:shortDescription>
+       <ns2:shortDescription type="season" language="swe">Amerikansk dokument�rserie fr�n 2005.</ns2:shortDescription>
+     </ns2:shortDescriptionList>
+     <ns2:longDescriptionList>
+       <ns2:longDescription type="content" language="swe">Del 10 av 16. N�r Don och hans team lyckas spr�nga en liga som legat bakom flera v�pnade bilr�n uppt�cker de sedlar som kommer fr�n den �k�nda och ol�sta D.B Cooper-kuppen. Teamet tar hj�lp av agent Roger Bloom som arbetade med Cooper-fallet med hopp om att kunna l�sa det.</ns2:longDescription>
+       <ns2:longDescription shortDescriptionIncluded="true" type="season" language="swe">Amerikansk dokument�rserie fr�n 2005. Charlie Eppes �r ett matematiskt geni och han lever och andas siffror. Han arbetar som matematikprofessor och han tror att allt i v�rlden kan f�rklaras med matematiska formler. Han bist�r ocks� FBI d�r hans bror Don arbetar med att l�sa fall. D�r anv�nder Charlie sin matematiska f�rm�ga f�r att r�dda liv.</ns2:longDescription>
+     </ns2:longDescriptionList>
+     <ns2:creditList>
+       <ns2:credit>
+         <ns2:name>Rob Morrow</ns2:name>
+         <ns2:rolename>Don Eppes</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>David Krumholtz</ns2:name>
+         <ns2:rolename>Charlie Eppes</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Judd Hirsch</ns2:name>
+         <ns2:rolename>Alan Eppes</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Alimi Ballard</ns2:name>
+         <ns2:rolename>David Sinclair</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Peter MacNicol</ns2:name>
+         <ns2:rolename>Larry Fleinhardt</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Dylan Bruno</ns2:name>
+         <ns2:rolename/>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Navi Rawat</ns2:name>
+         <ns2:rolename/>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Peter MacNichol</ns2:name>
+         <ns2:rolename/>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Sophina Brown</ns2:name>
+         <ns2:rolename/>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Sabrina Lloyd</ns2:name>
+         <ns2:rolename/>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+     </ns2:creditList>
+     <ns2:mediaList>
+       <ns2:media level="0" refType="image">http://annotagger.tv4.se/grid/4fd8a7ea2f32220001000004/tv4_sommar_.jpg</ns2:media>
+     </ns2:mediaList>
+     <ns2:categoryList>
+       <ns2:category level="0">
+         <ns2:treeNode order="0">Drama</ns2:treeNode>
+         <ns2:treeNode order="1">Kriminal</ns2:treeNode>
+       </ns2:category>
+     </ns2:categoryList>
+   </ns2:content>
+   <ns2:content timestamp="2014-03-17T05:12:18.057+01:00">
+     <ns2:contentId>se.tv4.content.1202425</ns2:contentId>
+     <ns2:seriesId>se.tv4.series.1246100</ns2:seriesId>
+     <ns2:seasonNumber>2</ns2:seasonNumber>
+     <ns2:episodeNumber>5</ns2:episodeNumber>
+     <ns2:numberOfEpisodes>12</ns2:numberOfEpisodes>
+     <ns2:productionYear>1975</ns2:productionYear>
+     <ns2:countryOfOriginList>
+       <ns2:country>GB</ns2:country>
+     </ns2:countryOfOriginList>
+     <ns2:titleList>
+       <ns2:title type="content" language="swe">Pang i bygget</ns2:title>
+       <ns2:title type="season" language="swe">Pang i bygget</ns2:title>
+     </ns2:titleList>
+     <ns2:shortDescriptionList>
+       <ns2:shortDescription type="content" language="swe">Brittisk komediserie fr�n 1979.</ns2:shortDescription>
+       <ns2:shortDescription type="season" language="swe">Brittisk komediserie fr�n 1979.</ns2:shortDescription>
+     </ns2:shortDescriptionList>
+     <ns2:longDescriptionList>
+       <ns2:longDescription type="content" language="swe">Del 5 av 12. Det �r gourmetkv�ll p� hotellet och Basil �r i sjunde himlen, tills han hittar kocken berusad p� k�ksgolvet.</ns2:longDescription>
+       <ns2:longDescription shortDescriptionIncluded="true" type="season" language="swe">Brittisk komediserie fr�n 1979. Hotellet Fawlty Towers drivs av den maniske, arrogante och lismande �garen Basil och hans fru Sybil, som har en ovanligt vass tunga. Till sin hj�lp har de Manuel, en mindre intelligent servit�r fr�n Barcelona, och den charmerande, lugna och kapabla allt-i-allon Polly. Fr�gan �r om det �r g�sterna som g�r Basils liv till ett helvete eller tv�rtom.</ns2:longDescription>
+     </ns2:longDescriptionList>
+     <ns2:creditList>
+       <ns2:credit>
+         <ns2:name>John Cleese</ns2:name>
+         <ns2:rolename>Basil Fawlty</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Prunella Scales</ns2:name>
+         <ns2:rolename>Sybil Fawlty</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Andrew Sachs</ns2:name>
+         <ns2:rolename>Manuel</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Connie Booth</ns2:name>
+         <ns2:rolename>Polly</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Ballard Berkeley</ns2:name>
+         <ns2:rolename>Major Gowen</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Gilly Flower</ns2:name>
+         <ns2:rolename>Miss Tibbs</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Renee Roberts</ns2:name>
+         <ns2:rolename>Miss Gatsby</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Steve Plytas</ns2:name>
+         <ns2:rolename>Kurt</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Andre Maranne</ns2:name>
+         <ns2:rolename>Andre</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Jeffrey Segal</ns2:name>
+         <ns2:rolename>Mr Heath</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Elizabeth Benson</ns2:name>
+         <ns2:rolename>Mrs Heath</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Tony Page</ns2:name>
+         <ns2:rolename>Master Heath</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Alan Cuthbertson</ns2:name>
+         <ns2:rolename>Colonel Hall</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Ann Way</ns2:name>
+         <ns2:rolename>Mrs Hall</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+     </ns2:creditList>
+     <ns2:mediaList>
+       <ns2:media level="0" refType="image">http://annotagger.tv4.se/grid/4fd8a7ea2f32220001000004/tv4_sommar_.jpg</ns2:media>
+     </ns2:mediaList>
+     <ns2:categoryList>
+       <ns2:category level="0">
+         <ns2:treeNode order="0">Sitcom</ns2:treeNode>
+       </ns2:category>
+     </ns2:categoryList>
+   </ns2:content>
+   <ns2:content timestamp="2014-03-17T05:12:18.057+01:00">
+     <ns2:contentId>se.tv4.content.2371418</ns2:contentId>
+     <ns2:seriesId>se.tv4.series.2371306</ns2:seriesId>
+     <ns2:seasonNumber>6</ns2:seasonNumber>
+     <ns2:episodeNumber>20</ns2:episodeNumber>
+     <ns2:numberOfEpisodes>23</ns2:numberOfEpisodes>
+     <ns2:productionYear>2004</ns2:productionYear>
+     <ns2:countryOfOriginList>
+       <ns2:country>USA</ns2:country>
+     </ns2:countryOfOriginList>
+     <ns2:titleList>
+       <ns2:title type="content" language="swe">Law &amp; order: Special victims unit</ns2:title>
+       <ns2:title type="season" language="swe">Law &amp; order: Special victims unit</ns2:title>
+     </ns2:titleList>
+     <ns2:shortDescriptionList>
+       <ns2:shortDescription type="content" language="swe">Amerikansk dramaserie fr�n 2004.</ns2:shortDescription>
+       <ns2:shortDescription type="season" language="swe">Amerikansk dramaserie fr�n 2004.</ns2:shortDescription>
+     </ns2:shortDescriptionList>
+     <ns2:longDescriptionList>
+       <ns2:longDescription type="content" language="swe">Del 20 av 23. En kvinna hittas v�ldtagen och d�dad med 5 000 dollar instuckna i munnen i n�rheten av en nattklubb. Offret �r Marguerite Beauclair, som vistades illegalt i landet och arbetade p� nattklubben. Benson och Stabler har inget att g� p� f�rutom de nytryckta dollarsedlarna som kan sp�ras via banken.</ns2:longDescription>
+       <ns2:longDescription shortDescriptionIncluded="true" type="season" language="swe">Amerikansk dramaserie fr�n 2004. Om en specialstyrka inom polisen i New York. Elliot Stabler, Olivia Benson, John Munch, Alexandra Cabot och Odafin Tutuola f�rs�ker l�sa n�gra av stadens mest komplexa fall. De g�r noggrant igenom varje ledtr�d i sin jakt p� r�ttvisa och s�kandet efter sanningen.</ns2:longDescription>
+     </ns2:longDescriptionList>
+     <ns2:creditList>
+       <ns2:credit>
+         <ns2:name>Christopher Meloni</ns2:name>
+         <ns2:rolename>Elliot Stabler</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Mariska Hargitay</ns2:name>
+         <ns2:rolename>Olivia Beson</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Richard Belzer</ns2:name>
+         <ns2:rolename>John Munch</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Ice-T</ns2:name>
+         <ns2:rolename>Odafin Tutola</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+     </ns2:creditList>
+     <ns2:mediaList>
+       <ns2:media level="0" refType="image">http://annotagger.tv4.se/grid/4fd8a7ea2f32220001000004/tv4_sommar_.jpg</ns2:media>
+     </ns2:mediaList>
+     <ns2:categoryList>
+       <ns2:category level="0">
+         <ns2:treeNode order="0">Drama</ns2:treeNode>
+         <ns2:treeNode order="1">Kriminal</ns2:treeNode>
+       </ns2:category>
+     </ns2:categoryList>
+   </ns2:content>
+   <ns2:content timestamp="2014-03-17T05:12:18.057+01:00">
+     <ns2:contentId>se.tv4.content.2640321</ns2:contentId>
+     <ns2:seriesId>se.tv4.series.2640310</ns2:seriesId>
+     <ns2:seasonNumber>2</ns2:seasonNumber>
+     <ns2:episodeNumber>11</ns2:episodeNumber>
+     <ns2:numberOfEpisodes>16</ns2:numberOfEpisodes>
+     <ns2:productionYear>2009</ns2:productionYear>
+     <ns2:countryOfOriginList>
+       <ns2:country>AU</ns2:country>
+     </ns2:countryOfOriginList>
+     <ns2:titleList>
+       <ns2:title type="content" language="swe">Veterin�ren p� Bondi Beach</ns2:title>
+       <ns2:title type="season" language="swe">Veterin�ren p� Bondi Beach</ns2:title>
+     </ns2:titleList>
+     <ns2:shortDescriptionList>
+       <ns2:shortDescription type="content" language="swe">Australiensisk dokument�rserie fr�n 2009.</ns2:shortDescription>
+       <ns2:shortDescription type="season" language="swe">Australiensisk dokument�rserie fr�n 2009.</ns2:shortDescription>
+     </ns2:shortDescriptionList>
+     <ns2:longDescriptionList>
+       <ns2:longDescription type="content" language="swe">Del 11 av 16. Chris f�r rycka in n�r en stor orm har bosatt sig i en pool.</ns2:longDescription>
+       <ns2:longDescription shortDescriptionIncluded="true" type="season" language="swe">Australiensisk dokument�rserie fr�n 2009. Veterin�ren Chris Brown bor och arbetar vid Bondi Beach i Sydney, Australien. Programmet f�ljer honom i hans dagliga arbete n�r han r�ddar livet p� djur som �r sjuka och skadade. Chris behandlar allt fr�n katter till kr�ftdjur och kanarief�glar p� sin klinik och g�r allt f�r djuren och deras �gare.</ns2:longDescription>
+     </ns2:longDescriptionList>
+     <ns2:mediaList>
+       <ns2:media level="0" refType="image">http://annotagger.tv4.se/grid/4fd8a7ea2f32220001000004/tv4_sommar_.jpg</ns2:media>
+     </ns2:mediaList>
+     <ns2:categoryList>
+       <ns2:category level="0">
+         <ns2:treeNode order="0">Dokument�r</ns2:treeNode>
+         <ns2:treeNode order="1">Dokus�pa</ns2:treeNode>
+       </ns2:category>
+     </ns2:categoryList>
+   </ns2:content>
+   <ns2:content timestamp="2014-03-17T05:12:18.057+01:00">
+     <ns2:contentId>se.tv4.content.4391946</ns2:contentId>
+     <ns2:seriesId>se.tv4.series.4391926</ns2:seriesId>
+     <ns2:seasonNumber>9</ns2:seasonNumber>
+     <ns2:episodeNumber>18</ns2:episodeNumber>
+     <ns2:numberOfEpisodes>36</ns2:numberOfEpisodes>
+     <ns2:productionYear>2012</ns2:productionYear>
+     <ns2:countryOfOriginList>
+       <ns2:country>Sverige</ns2:country>
+     </ns2:countryOfOriginList>
+     <ns2:titleList>
+       <ns2:title type="content" language="swe">112 p� liv och d�d</ns2:title>
+       <ns2:title type="season" language="swe">112 - p� liv och d�d</ns2:title>
+     </ns2:titleList>
+     <ns2:shortDescriptionList>
+       <ns2:shortDescription type="content" language="swe">Svensk dokument�rserie fr�n 2014.</ns2:shortDescription>
+       <ns2:shortDescription type="season" language="swe">Svensk dokument�rserie fr�n 2014.</ns2:shortDescription>
+     </ns2:shortDescriptionList>
+     <ns2:longDescriptionList>
+       <ns2:longDescription type="content" language="swe">Del 18 av 36. Polisen Andreas f�r ett larm om ett obehagligt villainbrott. En kraftig l�genhetsbrand f�r brandmannen Sebastian att befara det v�rsta. Polisen Gustav i Huddinge g�r ett narkotikabeslag.</ns2:longDescription>
+       <ns2:longDescription shortDescriptionIncluded="true" type="season" language="swe">Svensk dokument�rserie fr�n 2014. Serien skildrar brandm�ns, polisers och ambulanssjuksk�terskors sv�ra arbetsliv samt m�nniskorna bakom dessa yrkesroller. Starka k�nslor, sp�nning och snabba beslut blandas med humor, v�rme och hopp om att hinna fram i tid f�r att kunna r�dda liv och f�rhindra brott.</ns2:longDescription>
+     </ns2:longDescriptionList>
+     <ns2:mediaList>
+       <ns2:media level="0" refType="image">http://annotagger.tv4.se/grid/4fd8a7ea2f32220001000004/tv4_sommar_.jpg</ns2:media>
+     </ns2:mediaList>
+     <ns2:categoryList>
+       <ns2:category level="0">
+         <ns2:treeNode order="0">Dokument�r</ns2:treeNode>
+         <ns2:treeNode order="1">Dokus�pa</ns2:treeNode>
+       </ns2:category>
+     </ns2:categoryList>
+   </ns2:content>
+   <ns2:content timestamp="2014-03-17T05:12:18.057+01:00">
+     <ns2:contentId>se.tv4.content.4836192</ns2:contentId>
+     <ns2:productionYear>2014</ns2:productionYear>
+     <ns2:countryOfOriginList>
+       <ns2:country>Sverige</ns2:country>
+     </ns2:countryOfOriginList>
+     <ns2:titleList>
+       <ns2:title type="content" language="swe">Lokala nyheter</ns2:title>
+     </ns2:titleList>
+     <ns2:shortDescriptionList/>
+     <ns2:longDescriptionList/>
+     <ns2:mediaList>
+       <ns2:media level="0" refType="image">http://annotagger.tv4.se/grid/4fd8a7ea2f32220001000004/tv4_sommar_.jpg</ns2:media>
+     </ns2:mediaList>
+     <ns2:categoryList>
+       <ns2:category level="0">
+         <ns2:treeNode order="0">Nyheter</ns2:treeNode>
+       </ns2:category>
+     </ns2:categoryList>
+   </ns2:content>
+   <ns2:content timestamp="2014-03-17T05:12:18.057+01:00">
+     <ns2:contentId>se.tv4.content.4674131</ns2:contentId>
+     <ns2:seriesId>se.tv4.series.4673973</ns2:seriesId>
+     <ns2:seasonNumber>11</ns2:seasonNumber>
+     <ns2:episodeNumber>141</ns2:episodeNumber>
+     <ns2:numberOfEpisodes>175</ns2:numberOfEpisodes>
+     <ns2:productionYear>2013</ns2:productionYear>
+     <ns2:countryOfOriginList>
+       <ns2:country>USA</ns2:country>
+     </ns2:countryOfOriginList>
+     <ns2:titleList>
+       <ns2:title type="content" language="swe">Dr Phil</ns2:title>
+       <ns2:title type="season" language="swe">Dr Phil</ns2:title>
+     </ns2:titleList>
+     <ns2:shortDescriptionList>
+       <ns2:shortDescription type="content" language="swe">Dr Phil medlar i en v�rdnadstvist.</ns2:shortDescription>
+     </ns2:shortDescriptionList>
+     <ns2:longDescriptionList>
+       <ns2:longDescription type="content" language="swe">Del 141 av 176. Crystal och Megan var b�sta v�nner tills en v�rdnadstvist �ver Crystals �tta�riga dotter Allanah b�rjade. Nu �r det upp till dr Phil att f�rs�ka medla mellan de tv� forna v�nnerna f�r att avg�ra vem som b�r f� v�rdnaden �ver Allanah.</ns2:longDescription>
+     </ns2:longDescriptionList>
+     <ns2:mediaList>
+       <ns2:media level="0" refType="image">http://annotagger.tv4.se/grid/4fd8a7ea2f32220001000004/tv4_sommar_.jpg</ns2:media>
+     </ns2:mediaList>
+     <ns2:categoryList>
+       <ns2:category level="0">
+         <ns2:treeNode order="0">Talk Show</ns2:treeNode>
+       </ns2:category>
+     </ns2:categoryList>
+   </ns2:content>
+   <ns2:content timestamp="2014-03-17T05:12:18.057+01:00">
+     <ns2:contentId>se.tv4.content.4836186</ns2:contentId>
+     <ns2:productionYear>2014</ns2:productionYear>
+     <ns2:countryOfOriginList>
+       <ns2:country>Sverige</ns2:country>
+     </ns2:countryOfOriginList>
+     <ns2:titleList>
+       <ns2:title type="content" language="swe">TV4Nyheterna</ns2:title>
+     </ns2:titleList>
+     <ns2:shortDescriptionList/>
+     <ns2:longDescriptionList/>
+     <ns2:mediaList>
+       <ns2:media level="0" refType="image">http://annotagger.tv4.se/grid/4fd8a7ea2f32220001000004/tv4_sommar_.jpg</ns2:media>
+     </ns2:mediaList>
+     <ns2:categoryList>
+       <ns2:category level="0">
+         <ns2:treeNode order="0">Nyheter</ns2:treeNode>
+       </ns2:category>
+     </ns2:categoryList>
+   </ns2:content>
+   <ns2:content timestamp="2014-03-17T05:12:18.057+01:00">
+     <ns2:contentId>se.tv4.content.2657912</ns2:contentId>
+     <ns2:seriesId>se.tv4.series.2657892</ns2:seriesId>
+     <ns2:seasonNumber>6</ns2:seasonNumber>
+     <ns2:episodeNumber>16</ns2:episodeNumber>
+     <ns2:numberOfEpisodes>22</ns2:numberOfEpisodes>
+     <ns2:productionYear>2009</ns2:productionYear>
+     <ns2:countryOfOriginList>
+       <ns2:country>USA</ns2:country>
+     </ns2:countryOfOriginList>
+     <ns2:titleList>
+       <ns2:title type="content" language="swe">Medium</ns2:title>
+       <ns2:title type="season" language="swe">Medium</ns2:title>
+     </ns2:titleList>
+     <ns2:shortDescriptionList>
+       <ns2:shortDescription type="content" language="swe">Amerikansk dramaserie fr�n 2009/2010.</ns2:shortDescription>
+       <ns2:shortDescription type="season" language="swe">Amerikansk dramaserie fr�n 2009/2010.</ns2:shortDescription>
+     </ns2:shortDescriptionList>
+     <ns2:longDescriptionList>
+       <ns2:longDescription type="content" language="swe">Del 16 av 22. Samtidigt som Allison och Joe f�rbereder sig f�r sin br�llopsdag m�ste Allison l�ra sig hur hon ska hantera sin g�va som blir starkare f�r var dag. Hon oroar sig f�r vad hennes syner kan komma att inneb�ra f�r deras �ktenskap. Hennes mormor som ocks� har g�van f�rs�ker hj�lpa henne.</ns2:longDescription>
+       <ns2:longDescription shortDescriptionIncluded="true" type="season" language="swe">Amerikansk dramaserie fr�n 2009/2010. Allison Dubois kan kommunicera med de d�da och hon har ocks� en intuition om m�nniskor som g�r att hon kan k�nna av personer som �r inblandade i brott.</ns2:longDescription>
+     </ns2:longDescriptionList>
+     <ns2:creditList>
+       <ns2:credit>
+         <ns2:name>Patricia Arquette</ns2:name>
+         <ns2:rolename>Allison DuBois</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Jake Weber</ns2:name>
+         <ns2:rolename>Joe DuBois</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Miguel Sandoval</ns2:name>
+         <ns2:rolename>DA Devalos</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Sofia Vassilieva</ns2:name>
+         <ns2:rolename>Ariel DuBois</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Maria Lark</ns2:name>
+         <ns2:rolename>Bridgette DuBois</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+     </ns2:creditList>
+     <ns2:mediaList>
+       <ns2:media level="0" refType="image">http://annotagger.tv4.se/grid/4fd8a7ea2f32220001000004/tv4_sommar_.jpg</ns2:media>
+     </ns2:mediaList>
+     <ns2:categoryList>
+       <ns2:category level="0">
+         <ns2:treeNode order="0">Drama</ns2:treeNode>
+         <ns2:treeNode order="1">Science Fiction</ns2:treeNode>
+       </ns2:category>
+     </ns2:categoryList>
+   </ns2:content>
+   <ns2:content timestamp="2014-03-17T05:12:18.057+01:00">
+     <ns2:contentId>se.tv4.content.2013533</ns2:contentId>
+     <ns2:seriesId>se.tv4.series.1835010</ns2:seriesId>
+     <ns2:seasonNumber>6</ns2:seasonNumber>
+     <ns2:episodeNumber>17</ns2:episodeNumber>
+     <ns2:numberOfEpisodes>24</ns2:numberOfEpisodes>
+     <ns2:productionYear>2007</ns2:productionYear>
+     <ns2:countryOfOriginList>
+       <ns2:country>Sverige</ns2:country>
+     </ns2:countryOfOriginList>
+     <ns2:titleList>
+       <ns2:title type="content" language="swe">Det ok�nda</ns2:title>
+       <ns2:title type="season" language="swe">Det ok�nda</ns2:title>
+     </ns2:titleList>
+     <ns2:shortDescriptionList>
+       <ns2:shortDescription type="content" language="swe">Svenskt ockult magasin fr�n 2007/2008.</ns2:shortDescription>
+       <ns2:shortDescription type="season" language="swe">Svenskt ockult magasin fr�n 2007/2008.</ns2:shortDescription>
+     </ns2:shortDescriptionList>
+     <ns2:longDescriptionList>
+       <ns2:longDescription type="content" language="swe">Del 17 av 24. En restaurang i Uppsala har problem med en ov�lkommen n�rvaro som skr�mmer personalen. �garen Lars k�nner att n�gon som inte vill honom v�l f�rs�ker k�ra bort honom fr�n restaurangen. Mediet J�rgen Gustafsson f�rs�ker hj�lpa Lars att komma till r�tta med situationen.</ns2:longDescription>
+       <ns2:longDescription shortDescriptionIncluded="true" type="season" language="swe">Svenskt ockult magasin fr�n 2007/2008. Det finns m�nniskor som k�nner att deras hem �r hems�kta av andar och sp�ken, medan andra vittnar om m�rkliga fenomen och of�rklarliga h�ndelser. Programledare Caroline Giertz beger sig tillsammans med n�gra av landets mest framst�ende medier till svenska hem.</ns2:longDescription>
+     </ns2:longDescriptionList>
+     <ns2:mediaList>
+       <ns2:media level="0" refType="image">http://annotagger.tv4.se/grid/4fd8a7ea2f32220001000004/tv4_sommar_.jpg</ns2:media>
+     </ns2:mediaList>
+     <ns2:categoryList>
+       <ns2:category level="0">
+         <ns2:treeNode order="0">Dokument�r</ns2:treeNode>
+       </ns2:category>
+     </ns2:categoryList>
+   </ns2:content>
+   <ns2:content timestamp="2014-03-17T05:12:18.057+01:00">
+     <ns2:contentId>se.tv4.content.4326407</ns2:contentId>
+     <ns2:seriesId>se.tv4.series.4326405</ns2:seriesId>
+     <ns2:seasonNumber>1</ns2:seasonNumber>
+     <ns2:episodeNumber>1</ns2:episodeNumber>
+     <ns2:numberOfEpisodes>40</ns2:numberOfEpisodes>
+     <ns2:productionYear>2012</ns2:productionYear>
+     <ns2:countryOfOriginList>
+       <ns2:country>GB</ns2:country>
+     </ns2:countryOfOriginList>
+     <ns2:titleList>
+       <ns2:title type="content" language="swe">Trinny &amp; Susannah stylar om Norge</ns2:title>
+       <ns2:title type="season" language="swe">Trinny &amp; Susannah stylar om Norge</ns2:title>
+     </ns2:titleList>
+     <ns2:shortDescriptionList>
+       <ns2:shortDescription type="content" language="swe">Brittisk livsstilsserie fr�n 2012.</ns2:shortDescription>
+       <ns2:shortDescription type="season" language="swe">Brittisk livsstilsserie fr�n 2012.</ns2:shortDescription>
+     </ns2:shortDescriptionList>
+     <ns2:longDescriptionList>
+       <ns2:longDescription type="content" language="swe">Del 1 av 40. S�songsstart.</ns2:longDescription>
+       <ns2:longDescription shortDescriptionIncluded="true" type="season" language="swe">Brittisk livsstilsserie fr�n 2012. De brittiska stilpoliserna Trinny Woodall och Susannah Constantine reser till Norge f�r att f�rvandla norska kvinnor och m�n till sina allra snyggaste jag. I varje program bes�ker duon en ny norsk stad och med hj�lp av sitt professionella team ger de kvinnor och m�n chansen till en makeover.</ns2:longDescription>
+     </ns2:longDescriptionList>
+     <ns2:creditList>
+       <ns2:credit>
+         <ns2:name>Trinny Woodall</ns2:name>
+         <ns2:rolename/>
+         <ns2:function>Presentat�r</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Susannah Constantine</ns2:name>
+         <ns2:rolename/>
+         <ns2:function>Presentat�r</ns2:function>
+       </ns2:credit>
+     </ns2:creditList>
+     <ns2:mediaList>
+       <ns2:media level="0" refType="image">http://annotagger.tv4.se/grid/4fd8a7ea2f32220001000004/tv4_sommar_.jpg</ns2:media>
+     </ns2:mediaList>
+     <ns2:categoryList>
+       <ns2:category level="0">
+         <ns2:treeNode order="0">Dokument�r</ns2:treeNode>
+         <ns2:treeNode order="1">Dokus�pa</ns2:treeNode>
+       </ns2:category>
+     </ns2:categoryList>
+   </ns2:content>
+   <ns2:content timestamp="2014-03-17T05:12:18.057+01:00">
+     <ns2:contentId>se.tv4.content.1200217</ns2:contentId>
+     <ns2:seriesId>se.tv4.series.1246053</ns2:seriesId>
+     <ns2:seasonNumber>9</ns2:seasonNumber>
+     <ns2:episodeNumber>147</ns2:episodeNumber>
+     <ns2:numberOfEpisodes>232</ns2:numberOfEpisodes>
+     <ns2:productionYear>1979</ns2:productionYear>
+     <ns2:countryOfOriginList>
+       <ns2:country>USA</ns2:country>
+     </ns2:countryOfOriginList>
+     <ns2:titleList>
+       <ns2:title type="content" language="swe">M.A.S.H.</ns2:title>
+       <ns2:title type="season" language="swe">M*A*S*H</ns2:title>
+     </ns2:titleList>
+     <ns2:shortDescriptionList>
+       <ns2:shortDescription type="content" language="swe">Amerikansk komediserie fr�n 1980.</ns2:shortDescription>
+       <ns2:shortDescription type="season" language="swe">Amerikansk komediserie fr�n 1980.</ns2:shortDescription>
+     </ns2:shortDescriptionList>
+     <ns2:longDescriptionList>
+       <ns2:longDescription type="content" language="swe">Del 147 av 232. Rosies bar f�r ett ov�ntat bes�k.</ns2:longDescription>
+       <ns2:longDescription shortDescriptionIncluded="true" type="season" language="swe">Amerikansk komediserie fr�n 1980. Om arbetet p� ett f�ltsjukhus under Koreakriget, f�rkortningen st�r f�r Mobile Army Surgical Hospital. Hawkeye, Hot Lips, Radar och Klinger g�r sitt b�sta f�r att �verleva under en pressad situation. En r� jargong och galghumor �r det enda s�ttet att h�lla krigets fasor p� avst�nd.</ns2:longDescription>
+     </ns2:longDescriptionList>
+     <ns2:creditList>
+       <ns2:credit>
+         <ns2:name>Alan Alda</ns2:name>
+         <ns2:rolename>Hawkeye Pierce</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Mike Farrell</ns2:name>
+         <ns2:rolename>B.J Hunnicut</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>William Christopher</ns2:name>
+         <ns2:rolename>Father Mulcahy</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>David Ogden Stiers</ns2:name>
+         <ns2:rolename>Charles Emerson Winchester III</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Gary Burghoff</ns2:name>
+         <ns2:rolename>Radar O'Reilly</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Loretta Swit</ns2:name>
+         <ns2:rolename>Hot Lips Houlihan</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Jamie Farr</ns2:name>
+         <ns2:rolename>Corporal Maxwell Q. Klinger</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Harry Morgan</ns2:name>
+         <ns2:rolename>Colonel Sherman T. Potter</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Joshua Bryant</ns2:name>
+         <ns2:rolename>Sgt. Jerry Scully</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+     </ns2:creditList>
+     <ns2:mediaList>
+       <ns2:media level="0" refType="image">http://annotagger.tv4.se/grid/4fd8a7ea2f32220001000004/tv4_sommar_.jpg</ns2:media>
+     </ns2:mediaList>
+     <ns2:categoryList>
+       <ns2:category level="0">
+         <ns2:treeNode order="0">Sitcom</ns2:treeNode>
+       </ns2:category>
+     </ns2:categoryList>
+   </ns2:content>
+   <ns2:content timestamp="2014-03-17T05:12:18.057+01:00">
+     <ns2:contentId>se.tv4.content.1533705</ns2:contentId>
+     <ns2:seriesId>se.tv4.series.1533700</ns2:seriesId>
+     <ns2:seasonNumber>4</ns2:seasonNumber>
+     <ns2:episodeNumber>5</ns2:episodeNumber>
+     <ns2:numberOfEpisodes>21</ns2:numberOfEpisodes>
+     <ns2:productionYear>2004</ns2:productionYear>
+     <ns2:countryOfOriginList>
+       <ns2:country>USA</ns2:country>
+     </ns2:countryOfOriginList>
+     <ns2:titleList>
+       <ns2:title type="content" language="swe">Jordan, r�ttsl�kare</ns2:title>
+       <ns2:title type="season" language="swe">Jordan, r�ttsl�kare</ns2:title>
+     </ns2:titleList>
+     <ns2:shortDescriptionList>
+       <ns2:shortDescription type="content" language="swe">Amerikansk dramaserie fr�n 2004.</ns2:shortDescription>
+       <ns2:shortDescription type="season" language="swe">Amerikansk dramaserie fr�n 2004.</ns2:shortDescription>
+     </ns2:shortDescriptionList>
+     <ns2:longDescriptionList>
+       <ns2:longDescription type="content" language="swe">Del 5 av 21. Sonen till en man som m�rdades f�r 40 �r sedan kontaktar Jordan f�r att f� hj�lp med att ta reda p� vad som egentligen h�nde. Men Jordan f�r problem n�r ingen �r intresserad av att sanningen bakom mordet uppdagas.</ns2:longDescription>
+       <ns2:longDescription shortDescriptionIncluded="true" type="season" language="swe">Amerikansk dramaserie fr�n 2004. R�ttsl�karen Jordan Cavanaugh �r tillsammans med sina kollegor beredd att g� l�ngre �n vad plikten kr�ver f�r att l�sa brott. Medan r�ttsl�karna anv�nder forskning f�r att samla ihop ledtr�dar f�rlitar de sig p� att polisen Woody ska hitta g�rningsm�nnen till de brott de utreder.</ns2:longDescription>
+     </ns2:longDescriptionList>
+     <ns2:creditList>
+       <ns2:credit>
+         <ns2:name>Jill Hennessy</ns2:name>
+         <ns2:rolename>Dr. Jordan Cavanaugh</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Miguel Ferrer</ns2:name>
+         <ns2:rolename>Dr. Garret Macy</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Ravi Kapoor</ns2:name>
+         <ns2:rolename>Dr. Mahesh 'Bug' Vijayaraghavensata</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Kathryn Hahn</ns2:name>
+         <ns2:rolename>Lily Lebowski</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Steve Valentine</ns2:name>
+         <ns2:rolename>Dr. Nigel Townsend</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+       <ns2:credit>
+         <ns2:name>Ivan Sergei</ns2:name>
+         <ns2:rolename>Dr. Peter Winslow</ns2:rolename>
+         <ns2:function>Sk�despelare</ns2:function>
+       </ns2:credit>
+     </ns2:creditList>
+     <ns2:mediaList>
+       <ns2:media level="0" refType="image">http://annotagger.tv4.se/grid/4fd8a7ea2f32220001000004/tv4_sommar_.jpg</ns2:media>
+     </ns2:mediaList>
+     <ns2:categoryList>
+       <ns2:category level="0">
+         <ns2:treeNode order="0">Drama</ns2:treeNode>
+         <ns2:treeNode order="1">Medicin</ns2:treeNode>
+       </ns2:category>
+     </ns2:categoryList>
+   </ns2:content>
+   <ns2:content timestamp="2014-03-17T05:12:18.057+01:00">
+     <ns2:contentId>se.tv4.content.1652975</ns2:contentId>
+     <ns2:seriesId>se.tv4.series.1652966</ns2:seriesId>
+     <ns2:seasonNumber>2</ns2:seasonNumber>
+     <ns2:episodeNumber>9</ns2:episodeNumber>
+     <ns2:numberOfEpisodes>18</ns2:numberOfEpisodes>
+     <ns2:productionYear>2005</ns2:productionYear>
+     <ns2:countryOfOriginList>
+       <ns2:country>USA</ns2:country>
+     </ns2:countryOfOriginList>
+     <ns2:titleList>
+       <ns2:title type="content" language="swe">Mannen som talar med hundar</ns2:title>
+       <ns2:title type="season" language="swe">Mannen som talar med hundar</ns2:title>
+     </ns2:titleList>
+     <ns2:shortDescriptionList>
+       <ns2:shortDescription type="content" language="swe">Amerikansk dokument�rserie fr�n 2006.</ns2:shortDescription>
+       <ns2:shortDescription type="season" language="swe">Amerikansk dokument�rserie fr�n 2006.</ns2:shortDescription>
+     </ns2:shortDescriptionList>
+     <ns2:longDescriptionList>
+       <ns2:longDescription type="content" language="swe">Del 9 av 18. Patricia riskerar sitt gifterm�l p� grund av sin aggressiva blandrashanne Wendell. Sch�fern Spike �r f�r aggressiv f�r att ta med p� promenad. Jake, en Shetland Sheepdog, sk�ller oavbrutet n�r han �ker bil. Fr�gan �r om Cesar kan hj�lpa de aggressiva och nerv�sa hundarna.</ns2:longDescription>
+       <ns2:longDescription shortDescriptionIncluded="true" type="season" language="swe">Amerikansk dokument�rserie fr�n 2006. Djurpsykologen Cesar Millan hj�lper och rehabiliterar hundar med problem. Det kan handla om allt fr�n en aggressiv hund till en som v�grar l�ta sig borstas. Cesar Millan g�r varligt fram och lyckas alltid hj�lpa sina fyrbenta patienter och deras �gare.</ns2:longDescription>
+     </ns2:longDescriptionList>
+     <ns2:mediaList>
+       <ns2:media level="0" refType="image">http://annotagger.tv4.se/grid/4fd8a7ea2f32220001000004/tv4_sommar_.jpg</ns2:media>
+     </ns2:mediaList>
+     <ns2:categoryList>
+       <ns2:category level="0">
+         <ns2:treeNode order="0">Dokument�r</ns2:treeNode>
+       </ns2:category>
+     </ns2:categoryList>
+   </ns2:content>
+   <ns2:content timestamp="2014-03-17T05:12:18.057+01:00">
+     <ns2:contentId>se.tv4.content.4229236</ns2:contentId>
+     <ns2:seriesId>se.tv4.series.4229120</ns2:seriesId>
+     <ns2:seasonNumber>14</ns2:seasonNumber>
+     <ns2:episodeNumber>116</ns2:episodeNumber>
+     <ns2:numberOfEpisodes>250</ns2:numberOfEpisodes>
+     <ns2:productionYear>2012</ns2:productionYear>
+     <ns2:countryOfOriginList>
+       <ns2:country>USA</ns2:country>
+     </ns2:countryOfOriginList>
+     <ns2:titleList>
+       <ns2:title type="content" language="swe">Glamour</ns2:title>
+       <ns2:title type="season" language="swe">Glamour</ns2:title>
+     </ns2:titleList>
+     <ns2:shortDescriptionList>
+       <ns2:shortDescription type="content" language="swe">Amerikansk dramaserie fr�n 2012.</ns2:shortDescription>
+       <ns2:shortDescription type="season" language="swe">Amerikansk dramaserie fr�n 2012.</ns2:shortDescription>
+     </ns2:shortDescriptionList>
+     <ns2:longDescriptionList>
+       <ns2:longDescription type="content" language="swe">Del 116 av 250.</ns2:longDescription>
+       <ns2:longDescription shortDescriptionIncluded="true" type="season" language="swe">Amerikansk dramaserie fr�n 2012. Om familjerna Forrester, Logan och Spectra. De tillh�r gr�ddan av Los Angeles innefolk och har inga skrupler n�r det g�ller att tj�na pengar och h�lla sig kvar p� toppen.</ns2:longDescription>
+     </ns2:longDescriptionList>
+     <ns2:mediaList>
+       <ns2:media level="0" refType="image">http://annotagger.tv4.se/grid/4fd8a7ea2f32220001000004/tv4_sommar_.jpg</ns2:media>
+     </ns2:mediaList>
+     <ns2:categoryList>
+       <ns2:category level="0">
+         <ns2:treeNode order="0">S�pa</ns2:treeNode>
+       </ns2:category>
+     </ns2:categoryList>
+   </ns2:content>
+   <ns2:content timestamp="2014-03-17T05:12:18.057+01:00">
+     <ns2:contentId>se.tv4.content.2086663</ns2:contentId>
+     <ns2:seriesId>se.tv4.series.2086655</ns2:seriesId>
+     <ns2:seasonNumber>1</ns2:seasonNumber>
+     <ns2:episodeNumber>8</ns2:episodeNumber>
+     <ns2:numberOfEpisodes>10</ns2:numberOfEpisodes>
+     <ns2:productionYear>2008</ns2:productionYear>
+     <ns2:countryOfOriginList>
+       <ns2:country>Sverige</ns2:country>
+     </ns2:countryOfOriginList>
+     <ns2:titleList>
+       <ns2:title type="content" language="swe">Leila p� landet</ns2:title>
+       <ns2:title type="season" language="swe">Leila p� landet</ns2:title>
+     </ns2:titleList>
+     <ns2:shortDescriptionList>
+       <ns2:shortDescription type="content" language="swe">Svensk matlagningsserie fr�n 2009.</ns2:shortDescription>
+       <ns2:shortDescription type="season" language="swe">Svensk matlagningsserie fr�n 2009.</ns2:shortDescription>
+     </ns2:shortDescriptionList>
+     <ns2:longDescriptionList>
+       <ns2:longDescription type="content" language="swe">Del 8 av 10. Leila Lindholm �r expert p� att ta tillvara p� sina �pplen och hon anv�nder dem som ingrediens i samtliga r�tter. M�ltiden best�r av helgrillad fl�skfil� och en potatissallad med �pple, �ppel- och s�tpotatismuffins samt en yoghurtglass med smak av �pple. De �verblivna frukterna tar hon med sig till Rosenhill p� Eker� d�r hon f�r l�ra sig hur man g�r �ppelmust.</ns2:longDescription>
+       <ns2:longDescription shortDescriptionIncluded="true" type="season" language="swe">Svensk matlagningsserie fr�n 2009. Kocken Leila Lindholm bjuder p� enkel matlagning som passar bra till sommaren. Det blir tips om mat till strandfesten eller f�r lata dagar i h�ngmattan.</ns2:longDescription>
+     </ns2:longDescriptionList>
+     <ns2:mediaList>
+       <ns2:media level="0" refType="image">http://annotagger.tv4.se/grid/4fd8a7ea2f32220001000004/tv4_sommar_.jpg</ns2:media>
+     </ns2:mediaList>
+     <ns2:categoryList>
+       <ns2:category level="0">
+         <ns2:treeNode order="0">Mat</ns2:treeNode>
+       </ns2:category>
+     </ns2:categoryList>
+   </ns2:content>
+   <ns2:content timestamp="2014-03-17T05:12:18.057+01:00">
+     <ns2:contentId>se.tv4.content.3195586</ns2:contentId>
+     <ns2:seriesId>se.tv4.series.3195577</ns2:seriesId>
+     <ns2:seasonNumber>2</ns2:seasonNumber>
+     <ns2:episodeNumber>9</ns2:episodeNumber>
+     <ns2:numberOfEpisodes>9</ns2:numberOfEpisodes>
+     <ns2:productionYear>2009</ns2:productionYear>
+     <ns2:countryOfOriginList>
+       <ns2:country>GB</ns2:country>
+     </ns2:countryOfOriginList>
+     <ns2:titleList>
+       <ns2:title type="content" language="swe">V�rldens str�ngaste f�r�ldrar</ns2:title>
+       <ns2:title type="season" language="swe">V�rldens str�ngaste f�r�ldrar</ns2:title>
+     </ns2:titleList>
+     <ns2:shortDescriptionList>
+       <ns2:shortDescription type="content" language="swe">Brittisk dokument�rserie fr�n 2009.</ns2:shortDescription>
+       <ns2:shortDescription type="season" language="swe">Brittisk dokument�rserie fr�n 2009.</ns2:shortDescription>
+     </ns2:shortDescriptionList>
+     <ns2:longDescriptionList>
+       <ns2:longDescription type="content" language="swe">Del 9 av 9. S�songsavslutning. I �ver �tta veckor har st�kiga brittiska ton�ringar skickas till jordens alla h�rn f�r att bo en vecka hos str�nga f�r�ldrar. F�rhoppningen var att disciplin och strikta regler skulle tvinga dem att �ndra sitt beteende. Nu ber�ttar ton�ringarna om sina erfarenheter.</ns2:longDescription>
+       <ns2:longDescription shortDescriptionIncluded="true" type="season" language="swe">Brittisk dokument�rserie fr�n 2009. H�r f�r rebelliska ton�ringar l�mna sina hem och under tio dagar bo hemma hos n�gra riktigt str�nga f�r�ldrar. De blir inte l�tt f�r de upproriska barnen att anpassa sig till de dagliga rutinerna och de tuffa vuxna som kr�ver disciplin och ordning.</ns2:longDescription>
+     </ns2:longDescriptionList>
+     <ns2:mediaList>
+       <ns2:media level="0" refType="image">http://annotagger.tv4.se/grid/4fd8a7ea2f32220001000004/tv4_sommar_.jpg</ns2:media>
+     </ns2:mediaList>
+     <ns2:categoryList>
+       <ns2:category level="0">
+         <ns2:treeNode order="0">Dokument�r</ns2:treeNode>
+       </ns2:category>
+     </ns2:categoryList>
+   </ns2:content>
+ </contentList>
+ <materialList>
+   <ns3:material timestamp="2014-03-17T05:14:56.814+01:00">
+     <ns3:materialId>se.tv4.material.2264758</ns3:materialId>
+     <ns3:contentIdRef>se.tv4.content.2371418</ns3:contentIdRef>
+     <ns3:materialType>tx</ns3:materialType>
+     <ns3:videoFormat>576i</ns3:videoFormat>
+     <ns3:aspectRatio>16:9</ns3:aspectRatio>
+     <ns3:subtitleList>
+       <ns3:subtitle format="invision" language="swe"/>
+     </ns3:subtitleList>
+   </ns3:material>
+   <ns3:material timestamp="2014-03-17T05:14:56.814+01:00">
+     <ns3:materialId>se.tv4.material.4067515</ns3:materialId>
+     <ns3:contentIdRef>se.tv4.content.4162968</ns3:contentIdRef>
+     <ns3:materialType>tx</ns3:materialType>
+     <ns3:videoFormat>576i</ns3:videoFormat>
+     <ns3:aspectRatio>16:9</ns3:aspectRatio>
+     <ns3:subtitleList>
+       <ns3:subtitle format="teletext" language="swe">890</ns3:subtitle>
+       <ns3:subtitle format="invision" language="swe"/>
+     </ns3:subtitleList>
+   </ns3:material>
+   <ns3:material timestamp="2014-03-17T05:14:56.814+01:00">
+     <ns3:materialId>se.tv4.material.4134099</ns3:materialId>
+     <ns3:contentIdRef>se.tv4.content.4229236</ns3:contentIdRef>
+     <ns3:materialType>tx</ns3:materialType>
+     <ns3:videoFormat>576i</ns3:videoFormat>
+     <ns3:aspectRatio>16:9</ns3:aspectRatio>
+     <ns3:subtitleList>
+       <ns3:subtitle format="invision" language="swe"/>
+     </ns3:subtitleList>
+   </ns3:material>
+   <ns3:material timestamp="2014-03-17T05:14:56.814+01:00">
+     <ns3:materialId>se.tv4.material.4751949</ns3:materialId>
+     <ns3:contentIdRef>se.tv4.content.4836186</ns3:contentIdRef>
+     <ns3:materialType>tx</ns3:materialType>
+     <ns3:videoFormat>576i</ns3:videoFormat>
+     <ns3:aspectRatio>16:9</ns3:aspectRatio>
+   </ns3:material>
+   <ns3:material timestamp="2014-03-17T05:14:56.814+01:00">
+     <ns3:materialId>se.tv4.material.4584752</ns3:materialId>
+     <ns3:contentIdRef>se.tv4.content.4674131</ns3:contentIdRef>
+     <ns3:materialType>tx</ns3:materialType>
+     <ns3:videoFormat>576i</ns3:videoFormat>
+     <ns3:aspectRatio>16:9</ns3:aspectRatio>
+     <ns3:subtitleList>
+       <ns3:subtitle format="invision" language="swe"/>
+     </ns3:subtitleList>
+   </ns3:material>
+   <ns3:material timestamp="2014-03-17T05:14:56.814+01:00">
+     <ns3:materialId>se.tv4.material.1860146</ns3:materialId>
+     <ns3:contentIdRef>se.tv4.content.1968878</ns3:contentIdRef>
+     <ns3:materialType>tx</ns3:materialType>
+     <ns3:videoFormat>576i</ns3:videoFormat>
+     <ns3:aspectRatio>4:3</ns3:aspectRatio>
+   </ns3:material>
+   <ns3:material timestamp="2014-03-17T05:14:56.814+01:00">
+     <ns3:materialId>se.tv4.material.4585287</ns3:materialId>
+     <ns3:contentIdRef>se.tv4.content.4674494</ns3:contentIdRef>
+     <ns3:materialType>tx</ns3:materialType>
+     <ns3:videoFormat>576i</ns3:videoFormat>
+     <ns3:aspectRatio>4:3</ns3:aspectRatio>
+     <ns3:subtitleList>
+       <ns3:subtitle format="invision" language="swe"/>
+     </ns3:subtitleList>
+   </ns3:material>
+   <ns3:material timestamp="2014-03-17T05:14:56.814+01:00">
+     <ns3:materialId>se.tv4.material.4299719</ns3:materialId>
+     <ns3:contentIdRef>se.tv4.content.4391946</ns3:contentIdRef>
+     <ns3:materialType>tx</ns3:materialType>
+     <ns3:videoFormat>576i</ns3:videoFormat>
+     <ns3:aspectRatio>16:9</ns3:aspectRatio>
+   </ns3:material>
+   <ns3:material timestamp="2014-03-17T05:14:56.814+01:00">
+     <ns3:materialId>se.tv4.material.1978328</ns3:materialId>
+     <ns3:contentIdRef>se.tv4.content.2086663</ns3:contentIdRef>
+     <ns3:materialType>tx</ns3:materialType>
+     <ns3:videoFormat>576i</ns3:videoFormat>
+     <ns3:aspectRatio>16:9</ns3:aspectRatio>
+     <ns3:subtitleList>
+       <ns3:subtitle format="teletext" language="swe">890</ns3:subtitle>
+     </ns3:subtitleList>
+   </ns3:material>
+   <ns3:material timestamp="2014-03-17T05:14:56.814+01:00">
+     <ns3:materialId>se.tv4.material.4712311</ns3:materialId>
+     <ns3:contentIdRef>se.tv4.content.4799568</ns3:contentIdRef>
+     <ns3:materialType>tx</ns3:materialType>
+     <ns3:videoFormat>576i</ns3:videoFormat>
+     <ns3:aspectRatio>16:9</ns3:aspectRatio>
+     <ns3:subtitleList>
+       <ns3:subtitle format="invision" language="swe"/>
+     </ns3:subtitleList>
+   </ns3:material>
+   <ns3:material timestamp="2014-03-17T05:14:56.814+01:00">
+     <ns3:materialId>se.tv4.material.2551998</ns3:materialId>
+     <ns3:contentIdRef>se.tv4.content.2657912</ns3:contentIdRef>
+     <ns3:materialType>tx</ns3:materialType>
+     <ns3:videoFormat>576i</ns3:videoFormat>
+     <ns3:aspectRatio>16:9</ns3:aspectRatio>
+     <ns3:subtitleList>
+       <ns3:subtitle format="invision" language="swe"/>
+     </ns3:subtitleList>
+   </ns3:material>
+   <ns3:material timestamp="2014-03-17T05:14:56.814+01:00">
+     <ns3:materialId>se.tv4.material.2552023</ns3:materialId>
+     <ns3:contentIdRef>se.tv4.content.2657937</ns3:contentIdRef>
+     <ns3:materialType>tx</ns3:materialType>
+     <ns3:videoFormat>576i</ns3:videoFormat>
+     <ns3:aspectRatio>16:9</ns3:aspectRatio>
+     <ns3:subtitleList>
+       <ns3:subtitle format="invision" language="swe"/>
+     </ns3:subtitleList>
+   </ns3:material>
+   <ns3:material timestamp="2014-03-17T05:14:56.814+01:00">
+     <ns3:materialId>se.tv4.material.1093507</ns3:materialId>
+     <ns3:contentIdRef>se.tv4.content.1202425</ns3:contentIdRef>
+     <ns3:materialType>tx</ns3:materialType>
+     <ns3:videoFormat>576i</ns3:videoFormat>
+     <ns3:aspectRatio>4:3</ns3:aspectRatio>
+     <ns3:subtitleList>
+       <ns3:subtitle format="invision" language="swe"/>
+     </ns3:subtitleList>
+   </ns3:material>
+   <ns3:material timestamp="2014-03-17T05:14:56.814+01:00">
+     <ns3:materialId>se.tv4.material.4648648</ns3:materialId>
+     <ns3:contentIdRef>se.tv4.content.4736754</ns3:contentIdRef>
+     <ns3:materialType>tx</ns3:materialType>
+     <ns3:videoFormat>576i</ns3:videoFormat>
+     <ns3:aspectRatio>16:9</ns3:aspectRatio>
+     <ns3:subtitleList>
+       <ns3:subtitle format="teletext" language="swe">890</ns3:subtitle>
+       <ns3:subtitle format="invision" language="swe"/>
+     </ns3:subtitleList>
+   </ns3:material>
+   <ns3:material timestamp="2014-03-17T05:14:56.814+01:00">
+     <ns3:materialId>se.tv4.material.1542346</ns3:materialId>
+     <ns3:contentIdRef>se.tv4.content.1652975</ns3:contentIdRef>
+     <ns3:materialType>tx</ns3:materialType>
+     <ns3:videoFormat>576i</ns3:videoFormat>
+     <ns3:aspectRatio>4:3</ns3:aspectRatio>
+     <ns3:subtitleList>
+       <ns3:subtitle format="invision" language="swe"/>
+     </ns3:subtitleList>
+   </ns3:material>
+   <ns3:material timestamp="2014-03-17T05:14:56.814+01:00">
+     <ns3:materialId>se.tv4.material.2534407</ns3:materialId>
+     <ns3:contentIdRef>se.tv4.content.2640321</ns3:contentIdRef>
+     <ns3:materialType>tx</ns3:materialType>
+     <ns3:videoFormat>576i</ns3:videoFormat>
+     <ns3:aspectRatio>16:9</ns3:aspectRatio>
+     <ns3:subtitleList>
+       <ns3:subtitle format="invision" language="swe"/>
+     </ns3:subtitleList>
+   </ns3:material>
+   <ns3:material timestamp="2014-03-17T05:14:56.814+01:00">
+     <ns3:materialId>se.tv4.material.1091299</ns3:materialId>
+     <ns3:contentIdRef>se.tv4.content.1200217</ns3:contentIdRef>
+     <ns3:materialType>tx</ns3:materialType>
+     <ns3:videoFormat>576i</ns3:videoFormat>
+     <ns3:aspectRatio>4:3</ns3:aspectRatio>
+     <ns3:subtitleList>
+       <ns3:subtitle format="invision" language="swe"/>
+     </ns3:subtitleList>
+   </ns3:material>
+   <ns3:material timestamp="2014-03-17T05:14:56.814+01:00">
+     <ns3:materialId>se.tv4.material.3092563</ns3:materialId>
+     <ns3:contentIdRef>se.tv4.content.3195586</ns3:contentIdRef>
+     <ns3:materialType>tx</ns3:materialType>
+     <ns3:videoFormat>576i</ns3:videoFormat>
+     <ns3:aspectRatio>16:9</ns3:aspectRatio>
+     <ns3:subtitleList>
+       <ns3:subtitle format="invision" language="swe"/>
+     </ns3:subtitleList>
+   </ns3:material>
+   <ns3:material timestamp="2014-03-17T05:14:56.814+01:00">
+     <ns3:materialId>se.tv4.material.4233369</ns3:materialId>
+     <ns3:contentIdRef>se.tv4.content.4326407</ns3:contentIdRef>
+     <ns3:materialType>tx</ns3:materialType>
+     <ns3:videoFormat>576i</ns3:videoFormat>
+     <ns3:aspectRatio>16:9</ns3:aspectRatio>
+     <ns3:subtitleList>
+       <ns3:subtitle format="invision" language="swe"/>
+     </ns3:subtitleList>
+   </ns3:material>
+   <ns3:material timestamp="2014-03-17T05:14:56.814+01:00">
+     <ns3:materialId>se.tv4.material.1904896</ns3:materialId>
+     <ns3:contentIdRef>se.tv4.content.2013533</ns3:contentIdRef>
+     <ns3:materialType>tx</ns3:materialType>
+     <ns3:videoFormat>576i</ns3:videoFormat>
+     <ns3:aspectRatio>16:9</ns3:aspectRatio>
+     <ns3:subtitleList>
+       <ns3:subtitle format="teletext" language="swe">890</ns3:subtitle>
+     </ns3:subtitleList>
+   </ns3:material>
+   <ns3:material timestamp="2014-03-17T05:14:56.814+01:00">
+     <ns3:materialId>se.tv4.material.3092562</ns3:materialId>
+     <ns3:contentIdRef>se.tv4.content.3195585</ns3:contentIdRef>
+     <ns3:materialType>tx</ns3:materialType>
+     <ns3:videoFormat>576i</ns3:videoFormat>
+     <ns3:aspectRatio>16:9</ns3:aspectRatio>
+     <ns3:subtitleList>
+       <ns3:subtitle format="invision" language="swe"/>
+     </ns3:subtitleList>
+   </ns3:material>
+   <ns3:material timestamp="2014-03-17T05:14:56.814+01:00">
+     <ns3:materialId>se.tv4.material.4859009</ns3:materialId>
+     <ns3:contentIdRef>se.tv4.content.4941178</ns3:contentIdRef>
+     <ns3:materialType>tx</ns3:materialType>
+     <ns3:videoFormat>576i</ns3:videoFormat>
+     <ns3:aspectRatio>16:9</ns3:aspectRatio>
+     <ns3:subtitleList>
+       <ns3:subtitle format="teletext" language="swe">890</ns3:subtitle>
+     </ns3:subtitleList>
+   </ns3:material>
+   <ns3:material timestamp="2014-03-17T05:14:56.814+01:00">
+     <ns3:materialId>se.tv4.material.1422916</ns3:materialId>
+     <ns3:contentIdRef>se.tv4.content.1533705</ns3:contentIdRef>
+     <ns3:materialType>tx</ns3:materialType>
+     <ns3:videoFormat>576i</ns3:videoFormat>
+     <ns3:aspectRatio>4:3</ns3:aspectRatio>
+     <ns3:subtitleList>
+       <ns3:subtitle format="invision" language="swe"/>
+     </ns3:subtitleList>
+   </ns3:material>
+   <ns3:material timestamp="2014-03-17T05:14:56.814+01:00">
+     <ns3:materialId>se.tv4.material.4751955</ns3:materialId>
+     <ns3:contentIdRef>se.tv4.content.4836192</ns3:contentIdRef>
+     <ns3:materialType>tx</ns3:materialType>
+     <ns3:videoFormat>576i</ns3:videoFormat>
+     <ns3:aspectRatio>16:9</ns3:aspectRatio>
+   </ns3:material>
+   <ns3:material timestamp="2014-03-17T05:14:56.814+01:00">
+     <ns3:materialId>se.tv4.material.3089586</ns3:materialId>
+     <ns3:contentIdRef>se.tv4.content.3192695</ns3:contentIdRef>
+     <ns3:materialType>tx</ns3:materialType>
+     <ns3:videoFormat>576i</ns3:videoFormat>
+     <ns3:aspectRatio>16:9</ns3:aspectRatio>
+     <ns3:subtitleList>
+       <ns3:subtitle format="invision" language="swe"/>
+     </ns3:subtitleList>
+   </ns3:material>
+   <ns3:material timestamp="2014-03-17T05:14:56.814+01:00">
+     <ns3:materialId>se.tv4.material.1426025</ns3:materialId>
+     <ns3:contentIdRef>se.tv4.content.1536814</ns3:contentIdRef>
+     <ns3:materialType>tx</ns3:materialType>
+     <ns3:videoFormat>576i</ns3:videoFormat>
+     <ns3:aspectRatio>4:3</ns3:aspectRatio>
+     <ns3:subtitleList>
+       <ns3:subtitle format="invision" language="swe"/>
+     </ns3:subtitleList>
+   </ns3:material>
+ </materialList>
+ <eventList>
+   <ns4:event timestamp="2014-03-17T05:15:01.867+01:00">
+     <ns4:eventId>se.tv4.event.24889614</ns4:eventId>
+     <ns4:channelId>se.tv4.channel.Sjuan</ns4:channelId>
+     <ns4:rerun>false</ns4:rerun>
+     <ns4:live>false</ns4:live>
+     <ns4:timeList>
+       <ns4:time type="planned">
+         <ns4:startTime>2014-03-24T06:12:13+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T07:21:50+01:00</ns4:endTime>
+         <ns4:duration>01:09:37:00</ns4:duration>
+       </ns4:time>
+       <ns4:time type="public">
+         <ns4:startTime>2014-03-24T06:10:00+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T07:25:00+01:00</ns4:endTime>
+         <ns4:duration>01:15:00:00</ns4:duration>
+       </ns4:time>
+     </ns4:timeList>
+     <ns4:contentIdRef>se.tv4.content.3195585</ns4:contentIdRef>
+     <ns4:materialIdRef>se.tv4.material.3092562</ns4:materialIdRef>
+   </ns4:event>
+   <ns4:event timestamp="2014-03-17T05:15:01.867+01:00">
+     <ns4:eventId>se.tv4.event.24889689</ns4:eventId>
+     <ns4:channelId>se.tv4.channel.Sjuan</ns4:channelId>
+     <ns4:rerun>false</ns4:rerun>
+     <ns4:live>false</ns4:live>
+     <ns4:timeList>
+       <ns4:time type="planned">
+         <ns4:startTime>2014-03-24T07:25:10+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T07:54:43.920+01:00</ns4:endTime>
+         <ns4:duration>00:29:33:23</ns4:duration>
+       </ns4:time>
+       <ns4:time type="public">
+         <ns4:startTime>2014-03-24T07:25:00+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T08:00:00+01:00</ns4:endTime>
+         <ns4:duration>00:35:00:00</ns4:duration>
+       </ns4:time>
+     </ns4:timeList>
+     <ns4:contentIdRef>se.tv4.content.2640321</ns4:contentIdRef>
+     <ns4:materialIdRef>se.tv4.material.2534407</ns4:materialIdRef>
+   </ns4:event>
+   <ns4:event timestamp="2014-03-17T05:15:01.867+01:00">
+     <ns4:eventId>se.tv4.event.24874899</ns4:eventId>
+     <ns4:channelId>se.tv4.channel.Sjuan</ns4:channelId>
+     <ns4:rerun>false</ns4:rerun>
+     <ns4:live>false</ns4:live>
+     <ns4:timeList>
+       <ns4:time type="planned">
+         <ns4:startTime>2014-03-24T08:00:10+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T08:48:29.440+01:00</ns4:endTime>
+         <ns4:duration>00:48:19:11</ns4:duration>
+       </ns4:time>
+       <ns4:time type="public">
+         <ns4:startTime>2014-03-24T08:00:00+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T08:55:00+01:00</ns4:endTime>
+         <ns4:duration>00:55:00:00</ns4:duration>
+       </ns4:time>
+     </ns4:timeList>
+     <ns4:contentIdRef>se.tv4.content.4799568</ns4:contentIdRef>
+     <ns4:materialIdRef>se.tv4.material.4712311</ns4:materialIdRef>
+   </ns4:event>
+   <ns4:event timestamp="2014-03-17T05:15:01.867+01:00">
+     <ns4:eventId>se.tv4.event.24830204</ns4:eventId>
+     <ns4:channelId>se.tv4.channel.Sjuan</ns4:channelId>
+     <ns4:rerun>false</ns4:rerun>
+     <ns4:live>false</ns4:live>
+     <ns4:timeList>
+       <ns4:time type="planned">
+         <ns4:startTime>2014-03-24T08:55:00+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T10:55:00+01:00</ns4:endTime>
+         <ns4:duration>02:00:00:00</ns4:duration>
+       </ns4:time>
+       <ns4:time type="public">
+         <ns4:startTime>2014-03-24T08:55:00+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T10:55:00+01:00</ns4:endTime>
+         <ns4:duration>02:00:00:00</ns4:duration>
+       </ns4:time>
+     </ns4:timeList>
+     <ns4:contentIdRef>se.tv4.content.1968878</ns4:contentIdRef>
+     <ns4:materialIdRef>se.tv4.material.1860146</ns4:materialIdRef>
+   </ns4:event>
+   <ns4:event timestamp="2014-03-17T05:15:01.867+01:00">
+     <ns4:eventId>se.tv4.event.24863900</ns4:eventId>
+     <ns4:channelId>se.tv4.channel.Sjuan</ns4:channelId>
+     <ns4:rerun>false</ns4:rerun>
+     <ns4:live>false</ns4:live>
+     <ns4:timeList>
+       <ns4:time type="planned">
+         <ns4:startTime>2014-03-24T10:57:20+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T11:52:14.880+01:00</ns4:endTime>
+         <ns4:duration>00:54:54:22</ns4:duration>
+       </ns4:time>
+       <ns4:time type="public">
+         <ns4:startTime>2014-03-24T10:55:00+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T11:50:00+01:00</ns4:endTime>
+         <ns4:duration>00:55:00:00</ns4:duration>
+       </ns4:time>
+     </ns4:timeList>
+     <ns4:contentIdRef>se.tv4.content.1536814</ns4:contentIdRef>
+     <ns4:materialIdRef>se.tv4.material.1426025</ns4:materialIdRef>
+   </ns4:event>
+   <ns4:event timestamp="2014-03-17T05:15:01.867+01:00">
+     <ns4:eventId>se.tv4.event.24863564</ns4:eventId>
+     <ns4:channelId>se.tv4.channel.Sjuan</ns4:channelId>
+     <ns4:rerun>false</ns4:rerun>
+     <ns4:live>false</ns4:live>
+     <ns4:timeList>
+       <ns4:time type="planned">
+         <ns4:startTime>2014-03-24T11:53:10+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T12:55:46.080+01:00</ns4:endTime>
+         <ns4:duration>01:02:36:02</ns4:duration>
+       </ns4:time>
+       <ns4:time type="public">
+         <ns4:startTime>2014-03-24T11:50:00+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T12:55:00+01:00</ns4:endTime>
+         <ns4:duration>01:05:00:00</ns4:duration>
+       </ns4:time>
+     </ns4:timeList>
+     <ns4:contentIdRef>se.tv4.content.1652975</ns4:contentIdRef>
+     <ns4:materialIdRef>se.tv4.material.1542346</ns4:materialIdRef>
+   </ns4:event>
+   <ns4:event timestamp="2014-03-17T05:15:01.867+01:00">
+     <ns4:eventId>se.tv4.event.24830563</ns4:eventId>
+     <ns4:channelId>se.tv4.channel.Sjuan</ns4:channelId>
+     <ns4:rerun>false</ns4:rerun>
+     <ns4:live>false</ns4:live>
+     <ns4:timeList>
+       <ns4:time type="planned">
+         <ns4:startTime>2014-03-24T12:56:06.080+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T13:53:37.680+01:00</ns4:endTime>
+         <ns4:duration>00:57:31:15</ns4:duration>
+       </ns4:time>
+       <ns4:time type="public">
+         <ns4:startTime>2014-03-24T12:55:00+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T13:55:00+01:00</ns4:endTime>
+         <ns4:duration>01:00:00:00</ns4:duration>
+       </ns4:time>
+     </ns4:timeList>
+     <ns4:contentIdRef>se.tv4.content.2013533</ns4:contentIdRef>
+     <ns4:materialIdRef>se.tv4.material.1904896</ns4:materialIdRef>
+   </ns4:event>
+   <ns4:event timestamp="2014-03-17T05:15:01.867+01:00">
+     <ns4:eventId>se.tv4.event.24830430</ns4:eventId>
+     <ns4:channelId>se.tv4.channel.Sjuan</ns4:channelId>
+     <ns4:rerun>false</ns4:rerun>
+     <ns4:live>false</ns4:live>
+     <ns4:timeList>
+       <ns4:time type="planned">
+         <ns4:startTime>2014-03-24T13:55:10+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T14:53:10.320+01:00</ns4:endTime>
+         <ns4:duration>00:58:00:08</ns4:duration>
+       </ns4:time>
+       <ns4:time type="public">
+         <ns4:startTime>2014-03-24T13:55:00+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T15:00:00+01:00</ns4:endTime>
+         <ns4:duration>01:05:00:00</ns4:duration>
+       </ns4:time>
+     </ns4:timeList>
+     <ns4:contentIdRef>se.tv4.content.4736754</ns4:contentIdRef>
+     <ns4:materialIdRef>se.tv4.material.4648648</ns4:materialIdRef>
+   </ns4:event>
+   <ns4:event timestamp="2014-03-17T05:15:01.867+01:00">
+     <ns4:eventId>se.tv4.event.24828190</ns4:eventId>
+     <ns4:channelId>se.tv4.channel.Sjuan</ns4:channelId>
+     <ns4:rerun>false</ns4:rerun>
+     <ns4:live>false</ns4:live>
+     <ns4:timeList>
+       <ns4:time type="planned">
+         <ns4:startTime>2014-03-24T15:00:10+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T16:11:03+01:00</ns4:endTime>
+         <ns4:duration>01:10:53:00</ns4:duration>
+       </ns4:time>
+       <ns4:time type="public">
+         <ns4:startTime>2014-03-24T15:00:00+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T16:20:00+01:00</ns4:endTime>
+         <ns4:duration>01:20:00:00</ns4:duration>
+       </ns4:time>
+     </ns4:timeList>
+     <ns4:contentIdRef>se.tv4.content.3195586</ns4:contentIdRef>
+     <ns4:materialIdRef>se.tv4.material.3092563</ns4:materialIdRef>
+   </ns4:event>
+   <ns4:event timestamp="2014-03-17T05:15:01.867+01:00">
+     <ns4:eventId>se.tv4.event.24828326</ns4:eventId>
+     <ns4:channelId>se.tv4.channel.Sjuan</ns4:channelId>
+     <ns4:rerun>false</ns4:rerun>
+     <ns4:live>false</ns4:live>
+     <ns4:timeList>
+       <ns4:time type="planned">
+         <ns4:startTime>2014-03-24T16:20:10+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T16:45:57.360+01:00</ns4:endTime>
+         <ns4:duration>00:25:47:09</ns4:duration>
+       </ns4:time>
+       <ns4:time type="public">
+         <ns4:startTime>2014-03-24T16:20:00+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T16:50:00+01:00</ns4:endTime>
+         <ns4:duration>00:30:00:00</ns4:duration>
+       </ns4:time>
+     </ns4:timeList>
+     <ns4:contentIdRef>se.tv4.content.4674494</ns4:contentIdRef>
+     <ns4:materialIdRef>se.tv4.material.4585287</ns4:materialIdRef>
+   </ns4:event>
+   <ns4:event timestamp="2014-03-17T05:15:01.867+01:00">
+     <ns4:eventId>se.tv4.event.24827176</ns4:eventId>
+     <ns4:channelId>se.tv4.channel.Sjuan</ns4:channelId>
+     <ns4:rerun>false</ns4:rerun>
+     <ns4:live>false</ns4:live>
+     <ns4:timeList>
+       <ns4:time type="planned">
+         <ns4:startTime>2014-03-24T16:51:10+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T17:44:43.040+01:00</ns4:endTime>
+         <ns4:duration>00:53:33:01</ns4:duration>
+       </ns4:time>
+       <ns4:time type="public">
+         <ns4:startTime>2014-03-24T16:50:00+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T17:45:00+01:00</ns4:endTime>
+         <ns4:duration>00:55:00:00</ns4:duration>
+       </ns4:time>
+     </ns4:timeList>
+     <ns4:contentIdRef>se.tv4.content.4674131</ns4:contentIdRef>
+     <ns4:materialIdRef>se.tv4.material.4584752</ns4:materialIdRef>
+   </ns4:event>
+   <ns4:event timestamp="2014-03-17T05:15:01.867+01:00">
+     <ns4:eventId>se.tv4.event.24916539</ns4:eventId>
+     <ns4:channelId>se.tv4.channel.Sjuan</ns4:channelId>
+     <ns4:rerun>false</ns4:rerun>
+     <ns4:live>false</ns4:live>
+     <ns4:timeList>
+       <ns4:time type="planned">
+         <ns4:startTime>2014-03-24T17:47:00+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T17:50:00+01:00</ns4:endTime>
+         <ns4:duration>00:03:00:00</ns4:duration>
+       </ns4:time>
+       <ns4:time type="public">
+         <ns4:startTime>2014-03-24T17:45:00+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T17:50:00+01:00</ns4:endTime>
+         <ns4:duration>00:05:00:00</ns4:duration>
+       </ns4:time>
+     </ns4:timeList>
+     <ns4:contentIdRef>se.tv4.content.4836186</ns4:contentIdRef>
+     <ns4:materialIdRef>se.tv4.material.4751949</ns4:materialIdRef>
+   </ns4:event>
+   <ns4:event timestamp="2014-03-17T05:15:01.867+01:00">
+     <ns4:eventId>se.tv4.event.24916616</ns4:eventId>
+     <ns4:channelId>se.tv4.channel.Sjuan</ns4:channelId>
+     <ns4:rerun>false</ns4:rerun>
+     <ns4:live>false</ns4:live>
+     <ns4:timeList>
+       <ns4:time type="planned">
+         <ns4:startTime>2014-03-24T17:50:00+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T17:53:00+01:00</ns4:endTime>
+         <ns4:duration>00:03:00:00</ns4:duration>
+       </ns4:time>
+       <ns4:time type="public">
+         <ns4:startTime>2014-03-24T17:50:00+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T17:55:00+01:00</ns4:endTime>
+         <ns4:duration>00:05:00:00</ns4:duration>
+       </ns4:time>
+     </ns4:timeList>
+     <ns4:contentIdRef>se.tv4.content.4836192</ns4:contentIdRef>
+     <ns4:materialIdRef>se.tv4.material.4751955</ns4:materialIdRef>
+   </ns4:event>
+   <ns4:event timestamp="2014-03-17T05:15:01.867+01:00">
+     <ns4:eventId>se.tv4.event.24822859</ns4:eventId>
+     <ns4:channelId>se.tv4.channel.Sjuan</ns4:channelId>
+     <ns4:rerun>false</ns4:rerun>
+     <ns4:live>false</ns4:live>
+     <ns4:timeList>
+       <ns4:time type="planned">
+         <ns4:startTime>2014-03-24T17:57:10+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T18:26:19.480+01:00</ns4:endTime>
+         <ns4:duration>00:29:09:12</ns4:duration>
+       </ns4:time>
+       <ns4:time type="public">
+         <ns4:startTime>2014-03-24T17:55:00+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T18:30:00+01:00</ns4:endTime>
+         <ns4:duration>00:35:00:00</ns4:duration>
+       </ns4:time>
+     </ns4:timeList>
+     <ns4:contentIdRef>se.tv4.content.4229236</ns4:contentIdRef>
+     <ns4:materialIdRef>se.tv4.material.4134099</ns4:materialIdRef>
+   </ns4:event>
+   <ns4:event timestamp="2014-03-17T05:15:01.867+01:00">
+     <ns4:eventId>se.tv4.event.24822791</ns4:eventId>
+     <ns4:channelId>se.tv4.channel.Sjuan</ns4:channelId>
+     <ns4:rerun>false</ns4:rerun>
+     <ns4:live>false</ns4:live>
+     <ns4:timeList>
+       <ns4:time type="planned">
+         <ns4:startTime>2014-03-24T18:30:10+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T18:57:31.040+01:00</ns4:endTime>
+         <ns4:duration>00:27:21:01</ns4:duration>
+       </ns4:time>
+       <ns4:time type="public">
+         <ns4:startTime>2014-03-24T18:30:00+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T19:00:00+01:00</ns4:endTime>
+         <ns4:duration>00:30:00:00</ns4:duration>
+       </ns4:time>
+     </ns4:timeList>
+     <ns4:contentIdRef>se.tv4.content.2086663</ns4:contentIdRef>
+     <ns4:materialIdRef>se.tv4.material.1978328</ns4:materialIdRef>
+   </ns4:event>
+   <ns4:event timestamp="2014-03-17T05:15:01.867+01:00">
+     <ns4:eventId>se.tv4.event.25156819</ns4:eventId>
+     <ns4:channelId>se.tv4.channel.Sjuan</ns4:channelId>
+     <ns4:rerun>false</ns4:rerun>
+     <ns4:live>false</ns4:live>
+     <ns4:timeList>
+       <ns4:time type="planned">
+         <ns4:startTime>2014-03-24T19:00:10+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T19:27:31.880+01:00</ns4:endTime>
+         <ns4:duration>00:27:21:22</ns4:duration>
+       </ns4:time>
+       <ns4:time type="public">
+         <ns4:startTime>2014-03-24T19:00:00+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T19:30:00+01:00</ns4:endTime>
+         <ns4:duration>00:30:00:00</ns4:duration>
+       </ns4:time>
+     </ns4:timeList>
+     <ns4:contentIdRef>se.tv4.content.4326407</ns4:contentIdRef>
+     <ns4:materialIdRef>se.tv4.material.4233369</ns4:materialIdRef>
+   </ns4:event>
+   <ns4:event timestamp="2014-03-17T05:15:01.867+01:00">
+     <ns4:eventId>se.tv4.event.24653331</ns4:eventId>
+     <ns4:channelId>se.tv4.channel.Sjuan</ns4:channelId>
+     <ns4:rerun>false</ns4:rerun>
+     <ns4:live>false</ns4:live>
+     <ns4:timeList>
+       <ns4:time type="planned">
+         <ns4:startTime>2014-03-24T19:31:10+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T20:00:18.040+01:00</ns4:endTime>
+         <ns4:duration>00:29:08:01</ns4:duration>
+       </ns4:time>
+       <ns4:time type="public">
+         <ns4:startTime>2014-03-24T19:30:00+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T20:00:00+01:00</ns4:endTime>
+         <ns4:duration>00:30:00:00</ns4:duration>
+       </ns4:time>
+     </ns4:timeList>
+     <ns4:contentIdRef>se.tv4.content.4162968</ns4:contentIdRef>
+     <ns4:materialIdRef>se.tv4.material.4067515</ns4:materialIdRef>
+   </ns4:event>
+   <ns4:event timestamp="2014-03-17T05:15:01.867+01:00">
+     <ns4:eventId>se.tv4.event.24812361</ns4:eventId>
+     <ns4:channelId>se.tv4.channel.Sjuan</ns4:channelId>
+     <ns4:rerun>false</ns4:rerun>
+     <ns4:live>false</ns4:live>
+     <ns4:timeList>
+       <ns4:time type="planned">
+         <ns4:startTime>2014-03-24T20:00:38.040+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T20:59:58.040+01:00</ns4:endTime>
+         <ns4:duration>00:59:20:00</ns4:duration>
+       </ns4:time>
+       <ns4:time type="public">
+         <ns4:startTime>2014-03-24T20:00:00+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T21:00:00+01:00</ns4:endTime>
+         <ns4:duration>01:00:00:00</ns4:duration>
+       </ns4:time>
+     </ns4:timeList>
+     <ns4:contentIdRef>se.tv4.content.4391946</ns4:contentIdRef>
+     <ns4:materialIdRef>se.tv4.material.4299719</ns4:materialIdRef>
+   </ns4:event>
+   <ns4:event timestamp="2014-03-17T05:15:01.867+01:00">
+     <ns4:eventId>se.tv4.event.25211813</ns4:eventId>
+     <ns4:channelId>se.tv4.channel.Sjuan</ns4:channelId>
+     <ns4:rerun>false</ns4:rerun>
+     <ns4:live>false</ns4:live>
+     <ns4:timeList>
+       <ns4:time type="planned">
+         <ns4:startTime>2014-03-24T21:00:10+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T21:59:32.960+01:00</ns4:endTime>
+         <ns4:duration>00:59:22:24</ns4:duration>
+       </ns4:time>
+       <ns4:time type="public">
+         <ns4:startTime>2014-03-24T21:00:00+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T22:00:00+01:00</ns4:endTime>
+         <ns4:duration>01:00:00:00</ns4:duration>
+       </ns4:time>
+     </ns4:timeList>
+     <ns4:contentIdRef>se.tv4.content.4941178</ns4:contentIdRef>
+     <ns4:materialIdRef>se.tv4.material.4859009</ns4:materialIdRef>
+   </ns4:event>
+   <ns4:event timestamp="2014-03-17T05:15:01.867+01:00">
+     <ns4:eventId>se.tv4.event.24820703</ns4:eventId>
+     <ns4:channelId>se.tv4.channel.Sjuan</ns4:channelId>
+     <ns4:rerun>false</ns4:rerun>
+     <ns4:live>false</ns4:live>
+     <ns4:timeList>
+       <ns4:time type="planned">
+         <ns4:startTime>2014-03-24T22:00:10+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T22:56:21.480+01:00</ns4:endTime>
+         <ns4:duration>00:56:11:12</ns4:duration>
+       </ns4:time>
+       <ns4:time type="public">
+         <ns4:startTime>2014-03-24T22:00:00+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T22:55:00+01:00</ns4:endTime>
+         <ns4:duration>00:55:00:00</ns4:duration>
+       </ns4:time>
+     </ns4:timeList>
+     <ns4:contentIdRef>se.tv4.content.2657912</ns4:contentIdRef>
+     <ns4:materialIdRef>se.tv4.material.2551998</ns4:materialIdRef>
+   </ns4:event>
+   <ns4:event timestamp="2014-03-17T05:15:01.867+01:00">
+     <ns4:eventId>se.tv4.event.24822359</ns4:eventId>
+     <ns4:channelId>se.tv4.channel.Sjuan</ns4:channelId>
+     <ns4:rerun>false</ns4:rerun>
+     <ns4:live>false</ns4:live>
+     <ns4:timeList>
+       <ns4:time type="planned">
+         <ns4:startTime>2014-03-24T22:57:10+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T23:33:23.680+01:00</ns4:endTime>
+         <ns4:duration>00:36:13:17</ns4:duration>
+       </ns4:time>
+       <ns4:time type="public">
+         <ns4:startTime>2014-03-24T22:55:00+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-24T23:35:00+01:00</ns4:endTime>
+         <ns4:duration>00:40:00:00</ns4:duration>
+       </ns4:time>
+     </ns4:timeList>
+     <ns4:contentIdRef>se.tv4.content.1202425</ns4:contentIdRef>
+     <ns4:materialIdRef>se.tv4.material.1093507</ns4:materialIdRef>
+   </ns4:event>
+   <ns4:event timestamp="2014-03-17T05:15:01.867+01:00">
+     <ns4:eventId>se.tv4.event.24822501</ns4:eventId>
+     <ns4:channelId>se.tv4.channel.Sjuan</ns4:channelId>
+     <ns4:rerun>false</ns4:rerun>
+     <ns4:live>false</ns4:live>
+     <ns4:timeList>
+       <ns4:time type="planned">
+         <ns4:startTime>2014-03-24T23:36:43.680+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-25T00:04:33.320+01:00</ns4:endTime>
+         <ns4:duration>00:27:49:16</ns4:duration>
+       </ns4:time>
+       <ns4:time type="public">
+         <ns4:startTime>2014-03-24T23:35:00+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-25T00:05:00+01:00</ns4:endTime>
+         <ns4:duration>00:30:00:00</ns4:duration>
+       </ns4:time>
+     </ns4:timeList>
+     <ns4:contentIdRef>se.tv4.content.1200217</ns4:contentIdRef>
+     <ns4:materialIdRef>se.tv4.material.1091299</ns4:materialIdRef>
+   </ns4:event>
+   <ns4:event timestamp="2014-03-17T05:15:01.867+01:00">
+     <ns4:eventId>se.tv4.event.24873516</ns4:eventId>
+     <ns4:channelId>se.tv4.channel.Sjuan</ns4:channelId>
+     <ns4:rerun>false</ns4:rerun>
+     <ns4:live>false</ns4:live>
+     <ns4:timeList>
+       <ns4:time type="planned">
+         <ns4:startTime>2014-03-25T00:05:10+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-25T01:01:47.920+01:00</ns4:endTime>
+         <ns4:duration>00:56:37:23</ns4:duration>
+       </ns4:time>
+       <ns4:time type="public">
+         <ns4:startTime>2014-03-25T00:05:00+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-25T01:00:00+01:00</ns4:endTime>
+         <ns4:duration>00:55:00:00</ns4:duration>
+       </ns4:time>
+     </ns4:timeList>
+     <ns4:contentIdRef>se.tv4.content.2371418</ns4:contentIdRef>
+     <ns4:materialIdRef>se.tv4.material.2264758</ns4:materialIdRef>
+   </ns4:event>
+   <ns4:event timestamp="2014-03-17T05:15:01.867+01:00">
+     <ns4:eventId>se.tv4.event.24873636</ns4:eventId>
+     <ns4:channelId>se.tv4.channel.Sjuan</ns4:channelId>
+     <ns4:rerun>false</ns4:rerun>
+     <ns4:live>false</ns4:live>
+     <ns4:timeList>
+       <ns4:time type="planned">
+         <ns4:startTime>2014-03-25T01:02:07.920+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-25T01:56:59.400+01:00</ns4:endTime>
+         <ns4:duration>00:54:51:12</ns4:duration>
+       </ns4:time>
+       <ns4:time type="public">
+         <ns4:startTime>2014-03-25T01:00:00+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-25T02:00:00+01:00</ns4:endTime>
+         <ns4:duration>01:00:00:00</ns4:duration>
+       </ns4:time>
+     </ns4:timeList>
+     <ns4:contentIdRef>se.tv4.content.2657912</ns4:contentIdRef>
+     <ns4:materialIdRef>se.tv4.material.2551998</ns4:materialIdRef>
+   </ns4:event>
+   <ns4:event timestamp="2014-03-17T05:15:01.867+01:00">
+     <ns4:eventId>se.tv4.event.24916269</ns4:eventId>
+     <ns4:channelId>se.tv4.channel.Sjuan</ns4:channelId>
+     <ns4:rerun>false</ns4:rerun>
+     <ns4:live>false</ns4:live>
+     <ns4:timeList>
+       <ns4:time type="planned">
+         <ns4:startTime>2014-03-25T02:00:10+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-25T02:54:44.880+01:00</ns4:endTime>
+         <ns4:duration>00:54:34:22</ns4:duration>
+       </ns4:time>
+       <ns4:time type="public">
+         <ns4:startTime>2014-03-25T02:00:00+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-25T03:00:00+01:00</ns4:endTime>
+         <ns4:duration>01:00:00:00</ns4:duration>
+       </ns4:time>
+     </ns4:timeList>
+     <ns4:contentIdRef>se.tv4.content.1533705</ns4:contentIdRef>
+     <ns4:materialIdRef>se.tv4.material.1422916</ns4:materialIdRef>
+   </ns4:event>
+   <ns4:event timestamp="2014-03-17T05:15:01.867+01:00">
+     <ns4:eventId>se.tv4.event.24891359</ns4:eventId>
+     <ns4:channelId>se.tv4.channel.Sjuan</ns4:channelId>
+     <ns4:rerun>false</ns4:rerun>
+     <ns4:live>false</ns4:live>
+     <ns4:timeList>
+       <ns4:time type="planned">
+         <ns4:startTime>2014-03-25T03:00:10+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-25T03:55:21.720+01:00</ns4:endTime>
+         <ns4:duration>00:55:11:18</ns4:duration>
+       </ns4:time>
+       <ns4:time type="public">
+         <ns4:startTime>2014-03-25T03:00:00+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-25T04:00:00+01:00</ns4:endTime>
+         <ns4:duration>01:00:00:00</ns4:duration>
+       </ns4:time>
+     </ns4:timeList>
+     <ns4:contentIdRef>se.tv4.content.2657937</ns4:contentIdRef>
+     <ns4:materialIdRef>se.tv4.material.2552023</ns4:materialIdRef>
+   </ns4:event>
+   <ns4:event timestamp="2014-03-17T05:15:01.867+01:00">
+     <ns4:eventId>se.tv4.event.24891439</ns4:eventId>
+     <ns4:channelId>se.tv4.channel.Sjuan</ns4:channelId>
+     <ns4:rerun>false</ns4:rerun>
+     <ns4:live>false</ns4:live>
+     <ns4:timeList>
+       <ns4:time type="planned">
+         <ns4:startTime>2014-03-25T04:00:10+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-25T04:53:16.840+01:00</ns4:endTime>
+         <ns4:duration>00:53:06:21</ns4:duration>
+       </ns4:time>
+       <ns4:time type="public">
+         <ns4:startTime>2014-03-25T04:00:00+01:00</ns4:startTime>
+         <ns4:endTime>2014-03-25T05:15:00+01:00</ns4:endTime>
+         <ns4:duration>01:15:00:00</ns4:duration>
+       </ns4:time>
+     </ns4:timeList>
+     <ns4:contentIdRef>se.tv4.content.3192695</ns4:contentIdRef>
+     <ns4:materialIdRef>se.tv4.material.3089586</ns4:materialIdRef>
+   </ns4:event>
+ </eventList>
+</schedule>
